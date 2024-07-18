@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0643-maximum-average-subarray-i](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Hash Table
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0438-find-all-anagrams-in-a-string](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -30,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0643-maximum-average-subarray-i](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -38,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview.
 |  |
 | ------- |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 ## String
 |  |
 | ------- |
@@ -78,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview.
 |  |
 | ------- |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+## Binary Search
+|  |
+| ------- |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 <!---LeetCode Topics End-->
