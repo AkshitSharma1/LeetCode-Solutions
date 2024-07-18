@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview.
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
+| [1370-count-number-of-nice-subarrays](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview.
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
+| [1370-count-number-of-nice-subarrays](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
@@ -30,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0438-find-all-anagrams-in-a-string](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
+| [1370-count-number-of-nice-subarrays](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
@@ -86,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview.
 |  |
 | ------- |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+## Math
+|  |
+| ------- |
+| [1370-count-number-of-nice-subarrays](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 <!---LeetCode Topics End-->
