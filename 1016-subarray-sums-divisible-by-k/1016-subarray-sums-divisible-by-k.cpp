@@ -9,11 +9,11 @@ public:
             num%=k;
             if(num<0) num+=k;
             prefixSum+=num;
-            prefixSum%=k;
+            //prefixSum%=k;
             int diff=(prefixSum-k)%k;
             if(diff<0) diff+=k;
             if(mp.find(diff)!=mp.end()) ans+=mp[diff];
-            mp[prefixSum]+=1;
+            mp[prefixSum%k]+=1;
             
         }
         return ans;
