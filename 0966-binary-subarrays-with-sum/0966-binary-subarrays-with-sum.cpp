@@ -5,9 +5,10 @@ public:
         mp[0]=1;
         int prefixSum=0;
         int ans=0;
+        int diff=0;
         for(auto num:nums) {
             prefixSum+=num;
-            int diff = prefixSum-goal;
+             diff = prefixSum-goal;
             if(mp.find(diff)!=mp.end()) ans+=mp[diff];
             mp[prefixSum]++;
         }
