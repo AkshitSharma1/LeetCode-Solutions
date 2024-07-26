@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0162-find-peak-element](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0275-h-index-ii](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0275-h-index-ii) |
+| [0278-first-bad-version](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0278-first-bad-version) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0907-koko-eating-bananas) |
@@ -162,4 +163,8 @@ A collection of LeetCode questions to ace the coding interview.
 | ------- |
 | [1232-sum-of-mutated-array-closest-to-target](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1232-sum-of-mutated-array-closest-to-target) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
