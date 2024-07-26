@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0275-h-index-ii](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0275-h-index-ii) |
 | [0303-range-sum-query-immutable](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0304-range-sum-query-2d-immutable) |
+| [0436-find-right-interval](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0436-find-right-interval) |
 | [0523-continuous-subarray-sum](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0209-minimum-size-subarray-sum](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0275-h-index-ii](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0278-first-bad-version) |
+| [0436-find-right-interval](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0436-find-right-interval) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0907-koko-eating-bananas) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview.
 ## Sorting
 |  |
 | ------- |
+| [0436-find-right-interval](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0436-find-right-interval) |
 | [1232-sum-of-mutated-array-closest-to-target](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1232-sum-of-mutated-array-closest-to-target) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Interactive
