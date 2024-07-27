@@ -1,7 +1,7 @@
 class Solution {
 public:
     bool judgeSquareSum(int c) {
-        long long  size=pow(2,16)+1;
+        long long  size=ceil(sqrt(c))+1;
         vector<long long > precomputePower(size,0);
         for(long long  i=0;i<size;i++) {
             precomputePower[i]=i*i;
