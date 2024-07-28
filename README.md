@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0959-3sum-with-multiplicity](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0959-3sum-with-multiplicity) |
 | [0966-binary-subarrays-with-sum](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1019-squares-of-a-sorted-array](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1232-sum-of-mutated-array-closest-to-target](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1232-sum-of-mutated-array-closest-to-target) |
 | [1370-count-number-of-nice-subarrays](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0861-flipping-an-image](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0861-flipping-an-image) |
 | [0917-boats-to-save-people](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0917-boats-to-save-people) |
 | [0959-3sum-with-multiplicity](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0959-3sum-with-multiplicity) |
+| [1019-squares-of-a-sorted-array](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 ## Queue
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0436-find-right-interval](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0436-find-right-interval) |
 | [0917-boats-to-save-people](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0917-boats-to-save-people) |
 | [0959-3sum-with-multiplicity](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0959-3sum-with-multiplicity) |
+| [1019-squares-of-a-sorted-array](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1232-sum-of-mutated-array-closest-to-target](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1232-sum-of-mutated-array-closest-to-target) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
