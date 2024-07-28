@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0567-permutation-in-string](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2786-find-the-longest-semi-repetitive-substring](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2786-find-the-longest-semi-repetitive-substring) |
 ## Bit Manipulation
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0985-bag-of-tokens](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0985-bag-of-tokens) |
 | [1019-squares-of-a-sorted-array](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 ## Queue
 |  |
