@@ -13,12 +13,9 @@ public:
                 currentInRange=l;
             } else if(nums[r]>=left && nums[r]<=right) {
                 currentInRange=r;
-                cout<<"adding "<<r-l<<" to ans"<<endl;
                 ans+=r-l;
                 r++;
             } else {
-                 cout<<"adding "<<currentInRange-l<<" to the ans"<<endl;
-
                 ans+=currentInRange-l;
                 r++;
             }
