@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int countBinarySubstrings(string s) {
+    int countBinarySubstrings(string& s) {
         int prev=0;
         int curr=1;
         int ans=0;
