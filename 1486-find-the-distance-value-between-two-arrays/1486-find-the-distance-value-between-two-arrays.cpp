@@ -1,7 +1,7 @@
 class Solution {
 public:
     int findTheDistanceValue(vector<int>& arr1, vector<int>& arr2, int d) {
-        //Two-pass linear sweep O(n+m)
+        //Two-pass linear sweep O(nlgn+mlgm)
         int i=0;
         int j=0;
         sort(arr1.begin(),arr1.end());
