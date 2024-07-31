@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0303-range-sum-query-immutable](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0436-find-right-interval](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0436-find-right-interval) |
 | [0475-heaters](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0475-heaters) |
 | [0523-continuous-subarray-sum](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0523-continuous-subarray-sum) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview.
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0523-continuous-subarray-sum](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0525-contiguous-array) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0475-heaters](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0475-heaters) |
 | [0556-next-greater-element-iii](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0556-next-greater-element-iii) |
 | [0567-permutation-in-string](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
@@ -206,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0275-h-index-ii](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0436-find-right-interval](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0436-find-right-interval) |
 | [0475-heaters](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0475-heaters) |
 | [0633-sum-of-square-numbers](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
@@ -244,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0075-sort-colors](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0436-find-right-interval](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0436-find-right-interval) |
 | [0475-heaters](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0475-heaters) |
 | [0658-find-k-closest-elements](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
