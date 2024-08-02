@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0042-trapping-rain-water](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0162-find-peak-element) |
@@ -287,12 +288,14 @@ A collection of LeetCode questions to ace the coding interview.
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0937-online-stock-span](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0937-online-stock-span) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0937-online-stock-span](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0937-online-stock-span) |
 ## Simulation
