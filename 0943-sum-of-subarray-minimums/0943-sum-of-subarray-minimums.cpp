@@ -39,9 +39,6 @@ public:
         }
 
         long long ans=0;
-        for(auto c:smallerOnLeft) cout<<c<<" ";
-        cout<<endl;
-        for(auto c:smallerOnRight) cout<<c<<" ";
         
         for(int i=0;i<n;i++) {
             ans+=((smallerOnRight[i]-i)*(i-smallerOnLeft[i])%MOD)*((long long)arr[i]%MOD);
