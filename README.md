@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0349-intersection-of-two-arrays](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0436-find-right-interval](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0436-find-right-interval) |
+| [0456-132-pattern](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0456-132-pattern) |
 | [0475-heaters](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0475-heaters) |
 | [0523-continuous-subarray-sum](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0525-contiguous-array) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0349-intersection-of-two-arrays](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0436-find-right-interval](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0436-find-right-interval) |
+| [0456-132-pattern](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0456-132-pattern) |
 | [0475-heaters](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0475-heaters) |
 | [0633-sum-of-square-numbers](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0042-trapping-rain-water](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
+| [0456-132-pattern](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0456-132-pattern) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0937-online-stock-span](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0943-sum-of-subarray-minimums) |
@@ -304,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0042-trapping-rain-water](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
+| [0456-132-pattern](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0456-132-pattern) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0937-online-stock-span](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0943-sum-of-subarray-minimums) |
@@ -315,4 +319,8 @@ A collection of LeetCode questions to ace the coding interview.
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0937-online-stock-span) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->
