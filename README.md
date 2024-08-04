@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0046-permutations](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0861-flipping-an-image](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0861-flipping-an-image) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Rolling Hash
@@ -345,5 +347,6 @@ A collection of LeetCode questions to ace the coding interview.
 | [0046-permutations](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0216-combination-sum-iii](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0216-combination-sum-iii) |
 <!---LeetCode Topics End-->
