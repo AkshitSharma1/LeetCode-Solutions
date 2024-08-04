@@ -339,4 +339,5 @@ A collection of LeetCode questions to ace the coding interview.
 | ------- |
 | [0046-permutations](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0047-permutations-ii) |
+| [0077-combinations](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0077-combinations) |
 <!---LeetCode Topics End-->
