@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0084-largest-rectangle-in-histogram](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0090-subsets-ii](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0090-subsets-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview.
 |  |
 | ------- |
 | [0078-subsets](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0090-subsets-ii) |
 | [0861-flipping-an-image](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0861-flipping-an-image) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Rolling Hash
@@ -348,5 +350,6 @@ A collection of LeetCode questions to ace the coding interview.
 | [0047-permutations-ii](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0216-combination-sum-iii) |
 <!---LeetCode Topics End-->
