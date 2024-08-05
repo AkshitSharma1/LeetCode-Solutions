@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview.
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0943-sum-of-subarray-minimums](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0943-sum-of-subarray-minimums) |
@@ -344,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview.
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0046-permutations) |
