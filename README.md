@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0042-trapping-rain-water](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0051-n-queens) |
 | [0075-sort-colors](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0079-word-search) |
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0040-combination-sum-ii](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0079-word-search) |
