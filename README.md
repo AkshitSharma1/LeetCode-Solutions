@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0047-permutations-ii](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview.
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview.
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0304-range-sum-query-2d-immutable](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0861-flipping-an-image](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0861-flipping-an-image) |
@@ -356,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0047-permutations-ii](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0216-combination-sum-iii) |
 <!---LeetCode Topics End-->
