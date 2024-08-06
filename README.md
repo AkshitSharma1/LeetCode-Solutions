@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0436-find-right-interval](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0436-find-right-interval) |
 | [0456-132-pattern](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0456-132-pattern) |
 | [0475-heaters](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0475-heaters) |
+| [0494-target-sum](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0494-target-sum) |
 | [0523-continuous-subarray-sum](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0070-climbing-stairs](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0416-partition-equal-subset-sum](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0494-target-sum) |
 | [0747-min-cost-climbing-stairs](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0943-sum-of-subarray-minimums](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [1013-fibonacci-number](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
@@ -374,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0079-word-search](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0216-combination-sum-iii) |
+| [0494-target-sum](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0494-target-sum) |
 ## Memoization
 |  |
 | ------- |
