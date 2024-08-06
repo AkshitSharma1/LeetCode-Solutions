@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0713-subarray-product-less-than-k](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0739-daily-temperatures](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0747-min-cost-climbing-stairs](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [0861-flipping-an-image](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0861-flipping-an-image) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0042-trapping-rain-water](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
+| [0747-min-cost-climbing-stairs](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0943-sum-of-subarray-minimums](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [1013-fibonacci-number](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
 ## Stack
