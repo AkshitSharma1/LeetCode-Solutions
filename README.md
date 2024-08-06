@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview.
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0523-continuous-subarray-sum](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0556-next-greater-element-iii](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0556-next-greater-element-iii) |
 | [0633-sum-of-square-numbers](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview.
 | ------- |
 | [0022-generate-parentheses](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0943-sum-of-subarray-minimums](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0943-sum-of-subarray-minimums) |
 ## Stack
@@ -364,4 +366,8 @@ A collection of LeetCode questions to ace the coding interview.
 | [0079-word-search](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0216-combination-sum-iii) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
