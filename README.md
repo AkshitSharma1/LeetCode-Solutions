@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview.
 | ------- |
 | [0062-unique-paths](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
+| [0279-perfect-squares](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0279-perfect-squares) |
 | [0523-continuous-subarray-sum](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0556-next-greater-element-iii](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0556-next-greater-element-iii) |
 | [0633-sum-of-square-numbers](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0064-minimum-path-sum](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
+| [0279-perfect-squares](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0494-target-sum) |
@@ -407,5 +409,6 @@ A collection of LeetCode questions to ace the coding interview.
 ## Breadth-First Search
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
