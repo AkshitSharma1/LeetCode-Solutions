@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0438-find-all-anagrams-in-a-string](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0556-next-greater-element-iii](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0556-next-greater-element-iii) |
 | [0567-permutation-in-string](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
+| [0583-delete-operation-for-two-strings](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0680-valid-palindrome-ii](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0696-count-binary-substrings) |
 | [1250-longest-common-subsequence](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1250-longest-common-subsequence) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0322-coin-change](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0494-target-sum) |
+| [0583-delete-operation-for-two-strings](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0747-min-cost-climbing-stairs](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0943-sum-of-subarray-minimums](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [1013-fibonacci-number](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
