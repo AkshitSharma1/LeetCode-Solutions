@@ -3,7 +3,6 @@ public:
 int f(vector<vector<int>>& dp,int l,int r,string& s) {
     if(r<=l) return 0;
     if(dp[l][r]!=-1) return dp[l][r];
-
     if(s[l]==s[r]) {
         return dp[l][r]=0+f(dp,l+1,r-1,s);
     } else {
