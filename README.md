@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0072-edit-distance](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
+| [0132-palindrome-partitioning-ii](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0132-palindrome-partitioning-ii) |
 | [0344-reverse-string](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0516-longest-palindromic-subsequence) |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0070-climbing-stairs](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
+| [0132-palindrome-partitioning-ii](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0132-palindrome-partitioning-ii) |
 | [0279-perfect-squares](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0322-coin-change) |
