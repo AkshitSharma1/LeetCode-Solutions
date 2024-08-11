@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0583-delete-operation-for-two-strings](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0680-valid-palindrome-ii](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0696-count-binary-substrings) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1250-longest-common-subsequence](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1250-longest-common-subsequence) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0516-longest-palindromic-subsequence](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0747-min-cost-climbing-stairs](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0943-sum-of-subarray-minimums](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [1013-fibonacci-number](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
