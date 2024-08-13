@@ -31,20 +31,19 @@ public:
         //Time complexity of above is O(n^2k), k is max length of string
         //Now bfs
         vector<int> visited(n,0);
-        vector<int> dist(n,0);
+        vector<int> dist(n,-1);
         queue<int> q;
         q.push(startInd);
-        visited[startInd]=1;
-        dist[0]=0;
+        dist[startInd]=0;
 
         while(!q.empty()) {
             int node = q.front();
             q.pop();
             for(auto adj:adjList[node]) {
-                if(visited[adj]==0) {
+                if(dist[adj]==-1) {
                     q.push(adj);
-                    visited[adj]=1;
                     dist[adj]=dist[node]+1;
+                    cout<<"dist is node: "<<dist[node]<<" while adj: "<<dist[adj]<<endl;
                 }
             }
 
