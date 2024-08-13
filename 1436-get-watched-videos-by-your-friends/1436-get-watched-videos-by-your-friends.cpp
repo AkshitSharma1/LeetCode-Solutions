@@ -8,7 +8,7 @@ public:
     }
     vector<string> watchedVideosByFriends(vector<vector<string>>& watchedVideos, vector<vector<int>>& friends, int id, int level) {
         int n = friends.size();
-        vector<int> visited(n,0);
+        unordered_map<int,int> visited;
         queue<pair<int,int>> q;
     
         q.push({id,0});
@@ -19,7 +19,7 @@ public:
             int personLevel = q.front().second;
             q.pop();
             for(auto person:friends[personId]) {
-                if(!visited[person]) {
+                if(visited.find(person)==visited.end()) {
                     if(personLevel+1==level) {
                         levelKFriends.push_back(person);
                         visited[person]=1;
@@ -37,9 +37,6 @@ public:
                 freq[watchedVideo]++; 
        }
         }
-
-   
-
         vector<pair<string,int>> watchedVideoVector;
         for(auto video:freq) {
             watchedVideoVector.push_back({video.first,video.second});
