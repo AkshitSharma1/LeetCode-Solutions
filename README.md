@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0200-number-of-islands](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0216-combination-sum-iii](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0216-combination-sum-iii) |
 | [0239-sliding-window-maximum](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0064-minimum-path-sum](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
+| [0200-number-of-islands](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0304-range-sum-query-2d-immutable](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0733-flood-fill](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [0861-flipping-an-image](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0861-flipping-an-image) |
@@ -445,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview.
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0279-perfect-squares](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0733-flood-fill](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0733-flood-fill) |
@@ -463,10 +466,15 @@ A collection of LeetCode questions to ace the coding interview.
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0472-concatenated-words](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0472-concatenated-words) |
 | [0733-flood-fill](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0733-flood-fill) |
 ## Trie
 |  |
 | ------- |
 | [0472-concatenated-words](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0472-concatenated-words) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
