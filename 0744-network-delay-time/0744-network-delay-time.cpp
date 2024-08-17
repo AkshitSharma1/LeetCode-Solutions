@@ -9,8 +9,7 @@ public:
         }
 
 
-        unordered_map<int,int> dist;
-        for(int i=1;i<=n;i++) dist[i]=1e5;
+        vector<int> dist(n+1,1e5);
         dist[k]=0;
         pq.push({0,k});
         while(!pq.empty()) {
@@ -25,10 +24,8 @@ public:
                 }
             }
         }
-        int maxDist = 0;
-        for(auto d:dist) {
-            maxDist = max(maxDist,d.second);
-        }
+        int maxDist = *max_element(dist.begin()+1,dist.end());
+        
         if (maxDist==1e5) return -1;
         return maxDist;
         
