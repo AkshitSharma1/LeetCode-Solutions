@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1706-min-cost-to-connect-all-points](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1706-min-cost-to-connect-all-points) |
 | [1753-path-with-minimum-effort](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1753-path-with-minimum-effort) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
@@ -519,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0547-number-of-provinces](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [1706-min-cost-to-connect-all-points](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1706-min-cost-to-connect-all-points) |
 | [1753-path-with-minimum-effort](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1753-path-with-minimum-effort) |
 ## Graph
 |  |
@@ -531,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [1325-path-with-maximum-probability](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1325-path-with-maximum-probability) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [1706-min-cost-to-connect-all-points](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1706-min-cost-to-connect-all-points) |
 ## Shortest Path
 |  |
 | ------- |
@@ -541,4 +544,8 @@ A collection of LeetCode questions to ace the coding interview.
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1706-min-cost-to-connect-all-points](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1706-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
