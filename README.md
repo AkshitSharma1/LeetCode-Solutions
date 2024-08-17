@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [1046-max-consecutive-ones-iii](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1232-sum-of-mutated-array-closest-to-target](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1232-sum-of-mutated-array-closest-to-target) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1305-number-of-visible-people-in-a-queue) |
+| [1325-path-with-maximum-probability](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1325-path-with-maximum-probability) |
 | [1370-count-number-of-nice-subarrays](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0239-sliding-window-maximum](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0658-find-k-closest-elements](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0744-network-delay-time](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0744-network-delay-time) |
+| [1325-path-with-maximum-probability](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1325-path-with-maximum-probability) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -519,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0547-number-of-provinces](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [0744-network-delay-time](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0744-network-delay-time) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1325-path-with-maximum-probability](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1325-path-with-maximum-probability) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1442-number-of-operations-to-make-network-connected) |
 ## Shortest Path
@@ -526,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview.
 | ------- |
 | [0399-evaluate-division](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0399-evaluate-division) |
 | [0744-network-delay-time](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0744-network-delay-time) |
+| [1325-path-with-maximum-probability](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1325-path-with-maximum-probability) |
 ## Topological Sort
 |  |
 | ------- |
