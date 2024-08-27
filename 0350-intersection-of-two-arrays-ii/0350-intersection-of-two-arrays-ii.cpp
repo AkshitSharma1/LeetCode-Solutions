@@ -1,23 +1,18 @@
 class Solution {
 public:
     vector<int> intersect(vector<int>& nums1, vector<int>& nums2) {
-        unordered_map<int,int> mp1,mp2;
-        int n=nums1.size();
-        int m=nums2.size();
-        for(auto num1:nums1) mp1[num1]++;
-        for(auto num2:nums2) mp2[num2]++;
+        sort(nums1.begin(),nums1.end());
+        sort(nums2.begin(),nums2.end());
+        int i=0;
+        int j=0;
+        int n1 = nums1.size();
+        int n2 = nums2.size();
         vector<int> ans;
-        for(auto num1:nums1) {
-            if(mp2.find(num1)!=mp2.end() && mp2[num1]!=0) {
-              int  minCommonCount = min(mp1[num1],mp2[num1]);
-              mp1[num1]=0;
-              mp2[num1]=0;
-            while(minCommonCount--!=0) ans.push_back(num1);
-            }
+        while(i<n1 && j<n2) {
+            if(nums1[i]==nums2[j]) {
+                 ans.push_back(nums1[i]); i++; j++;
+            } else if(nums1[i]<nums2[j]) { i++; } else { j++;}
         }
         return ans;
-
-
-        
     }
 };
