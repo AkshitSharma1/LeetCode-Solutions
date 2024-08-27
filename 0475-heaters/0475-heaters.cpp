@@ -1,7 +1,7 @@
 class Solution {
 public:
     int findRadius(vector<int>& houses, vector<int>& heaters) {
-        sort(houses.begin(), houses.end());
+       // sort(houses.begin(), houses.end());
         sort(heaters.begin(), heaters.end());
         int minRadius = 0;
         
