@@ -1,39 +1,25 @@
 class Solution {
 public:
     int findRadius(vector<int>& houses, vector<int>& heaters) {
-     sort(houses.begin(),houses.end());
-     sort(heaters.begin(),heaters.end());
-     int i=0;
-     int j=0;
-     int n = houses.size();
-     int m = heaters.size();
-     vector<int> forwardDist(n,INT_MAX);   
-    vector<int> backwardDist(n,INT_MAX);
-    while(i<n&&j<m) {
-        if(houses[i]<=heaters[j]) {
-            forwardDist[i]=min(forwardDist[i],heaters[j]-houses[i]);
-            i++;
-        } else {
-            j++;
+        sort(houses.begin(), houses.end());
+        sort(heaters.begin(), heaters.end());
+        int minRadius = 0;
+        
+        for (auto house : houses) {
+            auto minRad1 = lower_bound(heaters.begin(), heaters.end(), house);
+            int temp = INT_MAX;
+            
+            if (minRad1 != heaters.end()) {
+                temp = min(temp, abs(house - *minRad1));
+            }
+            if (minRad1 != heaters.begin()) {
+                auto minRad2 = minRad1 - 1;
+                temp = min(temp, abs(house - *minRad2));
+            }
+            
+            minRadius = max(minRadius, temp);
         }
-    }
-     i=n-1;
-     j=m-1;
-    while(i>=0 && j>=0) {
-        if(heaters[j]<=houses[i]) {
-            backwardDist[i] = min(backwardDist[i],-heaters[j]+houses[i]);
-            i-=1;
-        } else {
-            j-=1;
-
-        }
-    }
-    int ans=0;
-    for(int i=0;i<n;i++) {
-        ans = max(min(backwardDist[i],forwardDist[i]),ans);
-    }
-    return ans;
-  
-
+        
+        return minRadius;
     }
 };
