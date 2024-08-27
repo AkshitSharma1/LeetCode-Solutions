@@ -1,29 +1,35 @@
 class Solution {
 public:
-    bool minDistLessThanEqualD(vector<int>& arr2,int low,int high,int target,int dist) {
-        int mid;
-        while(low<=high) {
-            mid = (low+high)/2;
-            if (abs(arr2[mid]-target)<=dist) {
-                 return true;
-            } else if(arr2[mid]<target) {
-                low=mid+1;
-            } else {
-                high = mid-1;
-            }
-        }
-        return false;
-    }
     int findTheDistanceValue(vector<int>& arr1, vector<int>& arr2, int d) {
-        //Binary search
-        int ans=0;
+        int n = arr1.size();
         int m = arr2.size();
+        //We will calculate distance value for each a1 in arr1
+        vector<int> forwardDist(n,INT_MAX);
+        vector<int> backwardDist(n,INT_MAX);
         sort(arr1.begin(),arr1.end());
         sort(arr2.begin(),arr2.end());
-        for(auto num:arr1) {
-            if (minDistLessThanEqualD(arr2,0,m-1,num,d)==false) ans++;
+        int i=0;
+        int j=0;
+        while(i<n&&j<m) {
+            if(arr2[j]>=arr1[i]) {
+                forwardDist[i] = min(forwardDist[i],arr2[j]-arr1[i]);
+                i++;
+            } else {
+                j++;
+            }
         }
-        return ans;
-
+        i=n-1;
+        j=m-1;
+        while(i>=0 && j>=0) {
+            if(arr1[i]>=arr2[j]) {
+                backwardDist[i] = min(backwardDist[i],arr1[i]-arr2[j]);
+                i--;
+            } else { j--;}
+        }
+        int count=0;
+        for(int i=0;i<n;i++) {
+            if (min(abs(forwardDist[i]),abs(backwardDist[i]))>d) count++;
+        }
+        return count;
     }
 };
