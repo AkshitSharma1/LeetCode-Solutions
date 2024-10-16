@@ -1,26 +1,29 @@
 class Solution {
-    void solve(vector<vector<int>> &ans, vector<int> &nums, vector<int> &temp,int index){
-        if(temp.size() == nums.size()) {
-            ans.push_back(temp); 
+public:
+    void solve(int index, vector<int>& nums,vector<int>& temp,vector<vector<int>>& finalAns) {
+        if (index==nums.size()) {
+            finalAns.push_back(temp);
             return;
         }
-        
-        for(int i=index;i<nums.size();i++){
-                swap(nums[i],nums[index]);
-                temp.push_back(nums[index]);
-                solve(ans,nums,temp,index+1);
-                swap(nums[i],nums[index]);
+        //For index position, try all possible options
+        for (int i=0;i<nums.size();i++) {
+            if (nums[i]!=11) {
+                int tempVar = nums[i];
+                temp.push_back(nums[i]);
+                nums[i]=11;
+
+                solve(index+1,nums,temp,finalAns);
                 temp.pop_back();
-            
+                nums[i] = tempVar;
+            }
         }
-        return;
-        
     }
-public:
     vector<vector<int>> permute(vector<int>& nums) {
-        vector<vector<int>> ans;
+        vector<vector<int>> finalAns;
         vector<int> temp;
-        solve(ans,nums,temp,0);
-        return ans;
+         solve(0,nums,temp,finalAns);
+         return finalAns;
+        
+        
     }
 };
