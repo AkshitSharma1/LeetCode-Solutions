@@ -1,25 +1,42 @@
 class Solution {
 public:
-    void sortiT(vector<int>& nums,int oldColor,int newColor) {
-      int i=0;
-      while((i<nums.size() && nums[i]==newColor) || oldColor!=-1 && i<nums.size()&&nums[i]!=oldColor) i++;
-      int j=i+1;
-      while(j<nums.size()) {
-         if(oldColor!=-1 && i<nums.size()&&nums[i]!=oldColor)  {i++; j=i+1; continue; }
-
-        if(nums[j]==newColor) { 
-            swap(nums[j],nums[i]);
-            j++;
-            i++;
-        } else {
-            j++;
+    void sortColors(vector<int>& nums) {
+        int i=0;
+        while(i<nums.size() && nums[i]==0) i+=1;
+        int j=i+1;
+        //First bring 0 together
+        while(j<nums.size()) {
+             while( i<nums.size() && nums[i]==0) {
+                    i++;
+                    j++;
+                }
+                if(j>=nums.size()) break;
+            if(nums[j]==0) {
+                swap(nums[i],nums[j]);
+                i+=1;
+                j+=1;
+               
+            } else {
+                j+=1;
+            }
         }
         
-      }
-    }
-    void sortColors(vector<int>& nums) {
-        sortiT(nums,-1,0);
-        sortiT(nums,2,1);
-      //  return nums;
+        j=i+1;
+        while(j<nums.size()) {
+             while( i<nums.size() && nums[i]==1) {
+                    i++;
+                    j++;
+                }
+                if(j>=nums.size()) break;
+            if(nums[j]==1) {
+                swap(nums[i],nums[j]);
+                i+=1;
+                j+=1;
+               
+            } else {
+                j+=1;
+            }
+        }
+       
     }
 };
