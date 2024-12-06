@@ -514,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0399-evaluate-division](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0399-evaluate-division) |
 | [0472-concatenated-words](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0472-concatenated-words) |
+| [0543-diameter-of-binary-tree](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0744-network-delay-time) |
@@ -568,4 +569,12 @@ A collection of LeetCode questions to ace the coding interview.
 |  |
 | ------- |
 | [1706-min-cost-to-connect-all-points](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1706-min-cost-to-connect-all-points) |
+## Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
