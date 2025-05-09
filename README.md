@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [2227-sum-of-subarray-ranges](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2227-sum-of-subarray-ranges) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2561-number-of-distinct-averages](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2561-number-of-distinct-averages) |
 ## Hash Table
 |  |
 | ------- |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2561-number-of-distinct-averages](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2561-number-of-distinct-averages) |
 ## Sliding Window
 |  |
 | ------- |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2561-number-of-distinct-averages](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2561-number-of-distinct-averages) |
 ## Queue
 |  |
 | ------- |
@@ -355,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2561-number-of-distinct-averages](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2561-number-of-distinct-averages) |
 ## Interactive
 |  |
 | ------- |
