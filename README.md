@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [2561-number-of-distinct-averages](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2561-number-of-distinct-averages) |
 | [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
 | [2634-minimum-common-value](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2634-minimum-common-value) |
+| [3165-find-indices-with-index-and-value-difference-i](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [2561-number-of-distinct-averages](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2561-number-of-distinct-averages) |
 | [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
 | [2634-minimum-common-value](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2634-minimum-common-value) |
+| [3165-find-indices-with-index-and-value-difference-i](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 ## Queue
 |  |
 | ------- |
