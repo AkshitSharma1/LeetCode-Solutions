@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [1016-subarray-sums-divisible-by-k](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1019-squares-of-a-sorted-array](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
+| [1168-duplicate-zeros](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1168-duplicate-zeros) |
 | [1184-car-pooling](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1184-car-pooling) |
 | [1232-sum-of-mutated-array-closest-to-target](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1232-sum-of-mutated-array-closest-to-target) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1305-number-of-visible-people-in-a-queue) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0959-3sum-with-multiplicity](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0959-3sum-with-multiplicity) |
 | [0985-bag-of-tokens](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0985-bag-of-tokens) |
 | [1019-squares-of-a-sorted-array](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
+| [1168-duplicate-zeros](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1168-duplicate-zeros) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
