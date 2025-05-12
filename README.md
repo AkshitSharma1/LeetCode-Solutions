@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2227-sum-of-subarray-ranges](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2227-sum-of-subarray-ranges) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
+| [2442-number-of-arithmetic-triplets](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2442-number-of-arithmetic-triplets) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2561-number-of-distinct-averages](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2561-number-of-distinct-averages) |
 | [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
+| [2442-number-of-arithmetic-triplets](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2442-number-of-arithmetic-triplets) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2561-number-of-distinct-averages](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2561-number-of-distinct-averages) |
 | [2634-minimum-common-value](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2634-minimum-common-value) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2093-check-if-string-is-a-prefix-of-array) |
+| [2442-number-of-arithmetic-triplets](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2442-number-of-arithmetic-triplets) |
 | [2561-number-of-distinct-averages](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2561-number-of-distinct-averages) |
 | [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
 | [2634-minimum-common-value](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2634-minimum-common-value) |
@@ -640,5 +643,6 @@ A collection of LeetCode questions to ace the coding interview.
 ## Enumeration
 |  |
 | ------- |
+| [2442-number-of-arithmetic-triplets](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2442-number-of-arithmetic-triplets) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 <!---LeetCode Topics End-->
