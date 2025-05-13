@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0126-word-ladder-ii](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0290-word-pattern](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0088-merge-sorted-array](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
@@ -643,6 +645,7 @@ A collection of LeetCode questions to ace the coding interview.
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 ## Binary Search Tree
