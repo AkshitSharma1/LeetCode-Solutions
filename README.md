@@ -345,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview.
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0279-perfect-squares](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0279-perfect-squares) |
@@ -518,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview.
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0234-palindrome-linked-list](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
 ## Divide and Conquer
@@ -644,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview.
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
