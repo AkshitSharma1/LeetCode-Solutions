@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [1016-subarray-sums-divisible-by-k](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1019-squares-of-a-sorted-array](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
+| [1072-next-greater-node-in-linked-list](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1072-next-greater-node-in-linked-list) |
 | [1168-duplicate-zeros](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1168-duplicate-zeros) |
 | [1184-car-pooling](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1184-car-pooling) |
 | [1232-sum-of-mutated-array-closest-to-target](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1232-sum-of-mutated-array-closest-to-target) |
@@ -468,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0739-daily-temperatures](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0943-sum-of-subarray-minimums) |
+| [1072-next-greater-node-in-linked-list](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1072-next-greater-node-in-linked-list) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [2227-sum-of-subarray-ranges](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2227-sum-of-subarray-ranges) |
 ## Monotonic Stack
@@ -481,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0739-daily-temperatures](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0943-sum-of-subarray-minimums) |
+| [1072-next-greater-node-in-linked-list](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1072-next-greater-node-in-linked-list) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [2227-sum-of-subarray-ranges](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2227-sum-of-subarray-ranges) |
 ## Simulation
@@ -673,6 +676,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0234-palindrome-linked-list](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0328-odd-even-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0445-add-two-numbers-ii) |
+| [1072-next-greater-node-in-linked-list](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1072-next-greater-node-in-linked-list) |
 ## Binary Search Tree
 |  |
 | ------- |
