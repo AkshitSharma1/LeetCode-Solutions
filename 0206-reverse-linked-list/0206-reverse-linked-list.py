@@ -16,18 +16,4 @@ class Solution:
         curr.next = None
         return newHead
 
-        #M2 Using loop
-        prev = None
-        curr = head
-        nxt = curr.next
-        while curr is not None:
-            curr.next = prev
-            nxtToNext = nxt.next if nxt is not None else None
-            nxt.next = curr
-            prev = curr
-            curr = nxt
-            nxt = nxtToNext
-            
-
-
         
