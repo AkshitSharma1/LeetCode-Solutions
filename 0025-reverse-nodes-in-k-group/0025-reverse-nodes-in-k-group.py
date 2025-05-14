@@ -5,27 +5,29 @@
 #         self.next = next
 class Solution:
     def reverseKGroup(self, head: Optional[ListNode], k: int) -> Optional[ListNode]:
-        lengthPointer = head
-        count = 0
-        while lengthPointer is not None and count<k:
-            lengthPointer = lengthPointer.next
-            count+=1
-        if count<k:
-            return head
-        
+        #Check number of nodes beyond head - if less than k nodes, just return  
+        pointer = head
+        length = 0
+        while pointer is not None and length<k:
+            pointer = pointer.next
+            length +=1
+        if length<k: return head
 
-        #Reverse the first k nodes
-        prev = None
+        dummyHead = ListNode(0,head)
+        prev = dummyHead
         curr = head
         nxt = curr.next
+        previousNodeBackup = prev
         for _ in range(k):
-            nxt = curr.next
+            nextNodeBackup = nxt
+            nxt = nxt.next if nxt is not None else None
             curr.next = prev
             prev = curr
-            curr = nxt
+            curr = nextNodeBackup
+        
+        previousNodeBackup.next.next = self.reverseKGroup(curr,k)
+        previousNodeBackup.next = prev
+        return dummyHead.next
         
 
-        #Link it to next node
-        head.next = self.reverseKGroup(curr,k)
-        return prev
-        
+
