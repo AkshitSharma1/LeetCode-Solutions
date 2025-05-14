@@ -20,10 +20,10 @@ class Solution:
         previousNodeBackup = prev
         for _ in range(k):
             nextNodeBackup = nxt
-            nxt = curr.next 
+            nxt = nxt.next if nxt is not None else None
             curr.next = prev
             prev = curr
-            curr = nxt
+            curr = nextNodeBackup
         
         previousNodeBackup.next.next = self.reverseKGroup(curr,k)
         previousNodeBackup.next = prev
