@@ -669,6 +669,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0160-intersection-of-two-linked-lists](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0328-odd-even-linked-list) |
 ## Binary Search Tree
 |  |
 | ------- |
