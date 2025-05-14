@@ -8,27 +8,28 @@ class Solution:
         if head is None: return None
         length = 0
         pointer = head
-        rotate = k
+
         while pointer is not None:
-            pointer = pointer.next
             length+=1
-
-        
-        rotate%=length
-
+            pointer = pointer.next
         dummyHead = ListNode(0,head)
-        for rotation in range(rotate):
-            pointer = dummyHead.next
-            prev = dummyHead
-            while pointer.next is not None:
-                prev = pointer
-                pointer = pointer.next
+        for _ in range(k%length):
+            #Bring the last node to the front 
+            lastNodePointer = dummyHead.next
+            secondLastNodePointer = dummyHead
+            while lastNodePointer.next is not None:
+                secondLastNodePointer = lastNodePointer
+                lastNodePointer = lastNodePointer.next
             
-            prev.next = None
-            pointer.next = dummyHead.next
-            dummyHead.next = pointer
+            #Now bring the last node to front
+            secondLastNodePointer.next = None
+            lastNodePointer.next = dummyHead.next
+            dummyHead.next = lastNodePointer
         
         return dummyHead.next
+
+        
+
 
 
 
