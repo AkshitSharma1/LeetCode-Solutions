@@ -48,6 +48,5 @@ class Solution:
             
         
         
-        return head
 
         
