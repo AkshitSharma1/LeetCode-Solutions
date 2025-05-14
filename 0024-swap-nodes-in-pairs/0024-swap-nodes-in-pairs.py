@@ -18,5 +18,4 @@ class Solution:
         return nxt
 
 
-        return prev
         
