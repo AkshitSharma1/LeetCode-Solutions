@@ -1,44 +1,35 @@
 from collections import Counter
-from math import inf
 class Solution:
     def minWindow(self, s: str, t: str) -> str:
+        
+        left,right = 0,0
         counter = Counter()
-        nonZeroCount =0
+        uniqueCharCount = 0
         for char in t:
             counter[char]+=1
-            if counter[char]==1: nonZeroCount+=1
+            if counter[char]==1:
+                uniqueCharCount+=1
         
-        #Grow the window
-        minWindowI = 0
-        minWindowJ = 0
-        minWindowLength = math.inf
-        i=0
-        j=0
-        n = len(s)
 
-        while j<n:
-            if s[j] in counter:
-                counter[s[j]]-=1
-                if counter[s[j]]==0: nonZeroCount-=1
+        length = 1e7
+        ans=""
+        left=0
+        for right in range(len(s)):
+            if s[right] in counter:
+                counter[s[right]]-=1
+                if counter[s[right]]==0: uniqueCharCount-=1
+          
+            while uniqueCharCount==0 and left<=right:
+
+                
+                if right-left+1<length:
+                    length = right-left+1
+                    ans = s[left:right+1]
+
+                if s[left] in counter:
+                    counter[s[left]]+=1
+                    if counter[s[left]]==1: uniqueCharCount+=1
+                left+=1
+        return ans
             
-                #Check if nonZeroCount is 0
-                while i<=j and nonZeroCount==0:
-                    #Try to shrink window
-                    if j-i+1<minWindowLength:
-                        minWindowLength = j-i+1
-                        minWindowI = i
-                        minWindowJ = j+1
 
-                    if s[i] in counter:
-                        counter[s[i]]+=1
-                        if counter[s[i]]==1: nonZeroCount+=1
-                    i+=1
-            j+=1
-        return s[minWindowI:minWindowJ]
-
-                    
-
-
-
-
-        
