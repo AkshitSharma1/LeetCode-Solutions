@@ -9,8 +9,8 @@ class Solution:
         slowPointer = head
         fastPointer = head
         while fastPointer is not None and fastPointer.next is not None:
-            slowPointer = slowPointer.next
             fastPointer = fastPointer.next.next
-            if slowPointer==fastPointer: return True
+            slowPointer = slowPointer.next
+            if fastPointer==slowPointer: return True
         return False
         
