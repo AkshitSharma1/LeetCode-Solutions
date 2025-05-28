@@ -8,40 +8,53 @@ class Solution:
         """
         Do not return anything, modify head in-place instead.
         """
-        if head.next is None: return head
+
+        if head is None or head.next is None: return head
+
+        
+        prev = None
         slowPointer = head
         fastPointer = head
-        prev = None
+
         while fastPointer is not None and fastPointer.next is not None:
             prev = slowPointer
             slowPointer = slowPointer.next
             fastPointer = fastPointer.next.next
-        
-        #Reverse the 2nd half
-        if prev is not None: prev.next = None
+
+        #Reverse this half
+        currentNodeBackup = prev
         curr = slowPointer
-        prev = None
         while curr is not None:
-            nxt = curr.next
+            nextBackup = curr.next
             curr.next = prev
             prev = curr
-            curr = nxt
-        
-        secondLLReference = prev
+            curr = nextBackup
+        currentNodeBackup.next.next = None
+        currSecondHalf = prev
 
-        firstLLReference = head
-        count=0
-        while firstLLReference is not None and secondLLReference is not None:
-            if count%2==0:
-                backup = firstLLReference.next
-                firstLLReference.next = secondLLReference
-                firstLLReference = backup
-            else:
-                backup = secondLLReference.next
-                secondLLReference.next = firstLLReference
-                secondLLReference = backup
-            count+=1
+        currentNodeBackup.next = None
+
+        currFirstHalf = head
+
+        while   currFirstHalf is not None and currSecondHalf is not None:
+            nextFirstHalf = currFirstHalf.next if currFirstHalf is not None else None
+            nextSecondHalf = currSecondHalf.next if currSecondHalf is not None else None
             
+            if currFirstHalf is not None:
+                currFirstHalf.next = currSecondHalf 
+            if currSecondHalf is not None:
+                currSecondHalf.next = nextFirstHalf 
+            if nextFirstHalf is None and nextSecondHalf is not None:
+                currSecondHalf.next = nextSecondHalf
+
+            
+            currFirstHalf = nextFirstHalf
+            currSecondHalf = nextSecondHalf
+   
+
         return head
+
+
+
 
         
