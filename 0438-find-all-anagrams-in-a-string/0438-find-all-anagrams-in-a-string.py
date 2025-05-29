@@ -1,40 +1,30 @@
 from collections import Counter
 class Solution:
     def findAnagrams(self, s: str, p: str) -> List[int]:
-        counter = Counter()
-        distinctCharCount=0
-        if len(p)>len(s): return []
-        for char in p:
-            counter[char]+=1
-            if counter[char]==1: distinctCharCount+=1
-        
-        
-        #First, grow the window to required length
-        i=j=0
+        counter = Counter(p)
+        n = len(s)
+        ans = []
+        left=0
+        numDifferentChar=len(counter)
+        print(numDifferentChar,counter)
+        for right in range(n):
+            if s[right] in counter:
+                counter[s[right]]-=1
+                if counter[s[right]]==0:
+                    numDifferentChar-=1
+                elif counter[s[right]]==-1:
+                    numDifferentChar+=1
 
-        for j in range(len(p)):
-            if s[j] in counter:
-                counter[s[j]]-=1
-                if counter[s[j]]==0: distinctCharCount-=1
-        answer = []
-        while j<len(s):
-            #Compare the values
-            if distinctCharCount==0:
-                answer.append(i)
-            
-            if s[i] in counter:
-                counter[s[i]]+=1
-                if counter[s[i]]==1: distinctCharCount+=1
-            i+=1
+            if right-left+1==len(p): 
+                if numDifferentChar==0:
+                    ans.append(left)
+                
+                if s[left] in counter:
+                    counter[s[left]]+=1
+                    if counter[s[left]]==0:
+                        numDifferentChar-=1
+                    elif counter[s[left]]==1:
+                        numDifferentChar+=1
+                left+=1
+        return ans
 
-            j+=1
-
-            if j<len(s) and s[j] in counter:
-                counter[s[j]]-=1
-                if counter[s[j]]==0: distinctCharCount-=1
-        
-        return answer
-
-
-        
-        
