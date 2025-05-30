@@ -12,7 +12,7 @@ class Solution:
                 high = mid - 1
         
         
-        return low-1
+        return high
     
     def binarySearchAlongColumn(self,matrix,rowNumber,target):
         low = 0
