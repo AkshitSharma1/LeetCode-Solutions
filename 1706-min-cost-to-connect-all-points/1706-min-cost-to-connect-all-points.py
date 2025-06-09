@@ -1,29 +1,26 @@
-from collections import defaultdict
 import heapq
-
 class Solution:
+
     def minCostConnectPoints(self, points: List[List[int]]) -> int:
-        adjList = defaultdict(list)
         n = len(points)
-        for i in range(n):
-            for j in range(i + 1, n):
-                distance = abs(points[j][1] - points[i][1]) + abs(points[j][0] - points[i][0])
-                adjList[i].append((distance, j))
-                adjList[j].append((distance, i))
-        
-        pq = [(0, 0)]  # (cost, point)
-        heapq.heapify(pq)
         visited = set()
-        totalCost = 0
+        heap = [(0,0,0)] #(weight,source node, and the destination of edge)
+        cost = 0
+        minCost = [1e7]*n
+        minCost[0] = 0
+        heapq.heapify(heap)
+        while heap:
+            weight,sourceNode,neighbourNode = heapq.heappop(heap)
+            if neighbourNode not in visited:
+                visited.add(neighbourNode)
+            
+            for nextNode in range(n):
+                if nextNode in visited: continue
+                cost = abs(points[nextNode][0]-points[neighbourNode][0])+abs(points[nextNode][1]-points[neighbourNode][1])
+                if cost<minCost[nextNode]:
+                    minCost[nextNode] = cost
+                    heapq.heappush(heap,(cost,neighbourNode,nextNode))
+            
+        return sum(minCost)
+
         
-        while pq:
-            cost, node = heapq.heappop(pq)
-            if node in visited:
-                continue
-            totalCost += cost
-            visited.add(node)
-            for neighbourCost, neighbour in adjList[node]:
-                if neighbour not in visited:
-                    heapq.heappush(pq, (neighbourCost, neighbour))
-        
-        return totalCost
