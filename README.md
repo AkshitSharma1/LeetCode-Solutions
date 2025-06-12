@@ -454,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0070-climbing-stairs](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0132-palindrome-partitioning-ii](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0132-palindrome-partitioning-ii) |
 | [0279-perfect-squares](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
@@ -614,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0098-validate-binary-search-tree](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0207-course-schedule) |
@@ -694,6 +696,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0100-same-tree](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -708,6 +711,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0100-same-tree](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
