@@ -8,16 +8,14 @@
 import heapq
 class Solution:
     def kthSmallest(self, root: Optional[TreeNode], k: int) -> int:
-        heap = []
-        heapq.heapify(heap)
-        def dfs(root):
-            nonlocal heap
-            if root is None: return
-            heapq.heappush(heap,root.val)
-            dfs(root.left)
-            dfs(root.right)
+        sortedOrderList = []
+        def inorderTraversal(root):
+            nonlocal k
+            if root is None: return 
+            if len(sortedOrderList)==k: return
+            inorderTraversal(root.left)
+            sortedOrderList.append(root.val)
+            inorderTraversal(root.right)
         
-        dfs(root)
-        for _ in range(k-1):
-            heapq.heappop(heap)
-        return heapq.heappop(heap)
+        inorderTraversal(root)
+        return sortedOrderList[k-1]
