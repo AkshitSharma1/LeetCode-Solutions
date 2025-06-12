@@ -590,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0695-max-area-of-island](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0744-network-delay-time) |
+| [0764-n-ary-tree-level-order-traversal](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0801-is-graph-bipartite](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0801-is-graph-bipartite) |
 | [0813-all-paths-from-source-to-target](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0813-all-paths-from-source-to-target) |
 | [1036-rotting-oranges](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1036-rotting-oranges) |
@@ -703,6 +704,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0764-n-ary-tree-level-order-traversal](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
