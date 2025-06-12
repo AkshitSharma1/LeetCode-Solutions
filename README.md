@@ -594,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [1036-rotting-oranges](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1036-rotting-oranges) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1753-path-with-minimum-effort](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1753-path-with-minimum-effort) |
 ## Binary Indexed Tree
 |  |
@@ -634,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0813-all-paths-from-source-to-target](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0813-all-paths-from-source-to-target) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1753-path-with-minimum-effort](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1753-path-with-minimum-effort) |
 ## Trie
 |  |
@@ -698,6 +700,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -711,6 +714,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## String Matching
 |  |
 | ------- |
