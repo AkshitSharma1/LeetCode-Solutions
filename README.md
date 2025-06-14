@@ -368,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0002-add-two-numbers](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0279-perfect-squares](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0279-perfect-squares) |
 | [0368-largest-divisible-subset](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0368-largest-divisible-subset) |
 | [0445-add-two-numbers-ii](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0445-add-two-numbers-ii) |
@@ -455,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0070-climbing-stairs](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
+| [0096-unique-binary-search-trees](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0132-palindrome-partitioning-ii](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0132-palindrome-partitioning-ii) |
 | [0279-perfect-squares](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0279-perfect-squares) |
@@ -698,6 +700,7 @@ A collection of LeetCode questions to ace the coding interview.
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
@@ -715,6 +718,7 @@ A collection of LeetCode questions to ace the coding interview.
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
@@ -755,6 +759,7 @@ A collection of LeetCode questions to ace the coding interview.
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
