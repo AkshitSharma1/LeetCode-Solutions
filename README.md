@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0861-flipping-an-image](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0861-flipping-an-image) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0907-koko-eating-bananas) |
+| [0911-profitable-schemes](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0911-profitable-schemes) |
 | [0917-boats-to-save-people](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0917-boats-to-save-people) |
 | [0940-fruit-into-baskets](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0940-fruit-into-baskets) |
 | [0941-sort-array-by-parity](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0941-sort-array-by-parity) |
@@ -481,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0747-min-cost-climbing-stairs](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0747-min-cost-climbing-stairs) |
+| [0911-profitable-schemes](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0911-profitable-schemes) |
 | [0943-sum-of-subarray-minimums](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [0954-maximum-sum-circular-subarray](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0954-maximum-sum-circular-subarray) |
 | [1013-fibonacci-number](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
