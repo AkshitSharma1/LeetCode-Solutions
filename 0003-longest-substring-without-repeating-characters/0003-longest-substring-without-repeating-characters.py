@@ -1,20 +1,18 @@
-from collections import Counter
 class Solution:
     def lengthOfLongestSubstring(self, s: str) -> int:
-        lPointer = 0
-        rPointer = 0
-        counter = Counter()
-        length = 0
-        for rPointer in range(len(s)):
-            counter[s[rPointer]]+=1
-            while lPointer<rPointer and counter[s[rPointer]]>1:
-                counter[s[lPointer]]-=1
-                lPointer+=1
-
-            length = max(length,rPointer-lPointer+1)
-        
-        return length
+        l = 0
+        uniqueChars = set()
+        maxLength = 0
+        for r in range(len(s)):
+            if s[r]  in uniqueChars:
+                while s[r] in uniqueChars:
+                    uniqueChars.remove(s[l])
+                    l+=1
                 
-            
+            uniqueChars.add(s[r])
+            maxLength = max(maxLength,r-l+1)
+        return maxLength
+
+
 
         
