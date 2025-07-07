@@ -1,18 +1,15 @@
 class Solution:
-    def findMin(self, arr: List[int]) -> int:
-        low = 0
-        high = len(arr)-1
-        ans=0
 
-        while low<=high:
-            mid = (low+high)//2
-            if arr[mid]<=arr[high]:
-                high = mid
-                ans = arr[mid]
-                #possible ans, save it
+    def findMin(self, nums: List[int]) -> int:
+        l = 0
+        ans = 0
+        r = len(nums)-1
+        while l<r:
+            mid = (l+r)//2
+            if nums[mid]<=nums[r]:
+                r = mid
+                ans = mid
             else:
-                low = mid+1
-            
-            if low==high: return arr[high]
-        return ans
+                l = mid+1
+        return nums[l]
         
