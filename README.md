@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview.
 | ------- |
 | [0078-subsets](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0090-subsets-ii) |
+| [0191-number-of-1-bits](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0861-flipping-an-image](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0861-flipping-an-image) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -585,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview.
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+| [0191-number-of-1-bits](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0954-maximum-sum-circular-subarray](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0954-maximum-sum-circular-subarray) |
 ## Combinatorics
