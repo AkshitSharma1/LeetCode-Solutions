@@ -1,60 +1,38 @@
-from typing import List
-
 class Solution:
-    def calculateMaxHeight(self, heights):
-        n = len(heights)
-        stackLeftToRight = []
-        stackRightToLeft = []
-        smallerElementIndexOnLeft = [-1] * n
-        smallerElementIndexOnRight = [n] * n
-
-        for i in range(n):
-            while stackLeftToRight and stackLeftToRight[-1][0] >= heights[i]:
-                stackLeftToRight.pop()
-            if stackLeftToRight:
-                smallerElementIndexOnLeft[i] = stackLeftToRight[-1][1]
-            stackLeftToRight.append((heights[i], i))
-
-        for i in range(n - 1, -1, -1):
-            while stackRightToLeft and stackRightToLeft[-1][0] >= heights[i]:
-                stackRightToLeft.pop()
-            if stackRightToLeft:
-                smallerElementIndexOnRight[i] = stackRightToLeft[-1][1]
-            stackRightToLeft.append((heights[i], i))
-
-        ans = float('-inf')
-        for i in range(n):
-            ans = max(ans, (smallerElementIndexOnRight[i] - smallerElementIndexOnLeft[i] - 1) * heights[i])
-        
-        return ans
-
     def maximalRectangle(self, matrix: List[List[str]]) -> int:
-        if not matrix or not matrix[0]:
-            return 0
-        
-        rows = len(matrix)
-        cols = len(matrix[0])
-        
-        # Convert matrix elements to integers
-        for i in range(rows):
-            for j in range(cols):
-                matrix[i][j] = int(matrix[i][j])
-        
-        # Create height matrix
-        heightMatrix = [[0] * cols for _ in range(rows)]
-        for j in range(cols):
-            heightMatrix[0][j] = matrix[0][j]
-        
-        for i in range(1, rows):
-            for j in range(cols):
-                if matrix[i][j] == 1:
-                    heightMatrix[i][j] = heightMatrix[i-1][j] + 1
+        matrix = [list(map(int, row)) for row in matrix]
+
+        n = len(matrix[0])
+        heights = [0] * n
+        maxAnswer = 0
+        for m in range(len(matrix)):
+            for j in range(n):
+                if matrix[m][j] == 1:
+                    heights[j] += 1
                 else:
-                    heightMatrix[i][j] = 0
-        
-        # Calculate the maximum rectangle area
-        ans = 0
-        for row in heightMatrix:
-            ans = max(ans, self.calculateMaxHeight(row))
-        
-        return ans
+                    heights[j] = 0
+            NSL = [-1]*n
+            NSR = [n]*n
+            NSLStack = []
+            NSRStack = []
+            #First- next smallest neighbour to right (monotonically increasing stack)
+            for index in range(n-1,-1,-1):
+                while NSRStack and heights[NSRStack[-1]]>=heights[index]:
+                    NSRStack.pop()
+                if len(NSRStack)>0:
+                    NSR[index] = NSRStack[-1]
+                NSRStack.append(index)
+
+
+            for index in range(0,n,+1):
+                while NSLStack and heights[NSLStack[-1]]>=heights[index]:
+                    NSLStack.pop()
+                if len(NSLStack)>0:
+                    NSL[index] = NSLStack[-1]
+                NSLStack.append(index)
+            
+            for index,number in enumerate(heights):
+                maxAnswer = max(maxAnswer,int(number)*(NSR[index]-NSL[index]-1))
+
+            
+        return maxAnswer
