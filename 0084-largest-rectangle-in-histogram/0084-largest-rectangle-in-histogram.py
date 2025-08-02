@@ -1,35 +1,23 @@
 class Solution:
     def largestRectangleArea(self, heights: List[int]) -> int:
+        NSLStack,NSRStack = [],[]
         n = len(heights)
-        NSR = [n]*n
         NSL = [-1]*n
-        stack = []
+        NSR = [n]*n
+
+        #First we calculate NSR
         for i in range(n-1,-1,-1):
-            while len(stack)>0 and heights[i]<=heights[stack[-1]]:
-                stack.pop()
-
-            if len(stack)>0:
-                NSR[i] = stack[-1]
-            
-            stack.append(i)
-
-        stack = []
-        for i in range(0,n,+1):
-            while len(stack)>0 and heights[i]<=heights[stack[-1]]:
-                stack.pop()
-
-            if len(stack)>0:
-                NSL[i] = stack[-1]
-            
-            stack.append(i)
-        answer = 0
-        for index,histogramHeight in enumerate(heights):
-            answer = max(answer,
-            (NSR[index]-NSL[index]-1)*histogramHeight
-            
-            )
-        return answer
-
-            
-
+            while len(NSRStack)>0 and heights[NSRStack[-1]]>=heights[i]:
+                NSRStack.pop()
+            if len(NSRStack)>0:
+                NSR[i] = NSRStack[-1]
+            NSRStack.append(i)
+        for i in range(0,n,1):
+            while len(NSLStack)>0 and heights[NSLStack[-1]]>=heights[i]: NSLStack.pop()
+            if len(NSLStack)>0: NSL[i]  = NSLStack[-1]
+            NSLStack.append(i)
+        maxAnswer = 0
+        for i,height in enumerate(heights):
+            maxAnswer = max(maxAnswer,height*(NSR[i]-NSL[i]-1))
+        return maxAnswer
         
