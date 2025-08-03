@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [2698-find-the-array-concatenation-value](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2698-find-the-array-concatenation-value) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
+| [3751-maximum-frequency-after-subarray-operation](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/3751-maximum-frequency-after-subarray-operation) |
 ## Hash Table
 |  |
 | ------- |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2561-number-of-distinct-averages](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2561-number-of-distinct-averages) |
 | [2634-minimum-common-value](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2634-minimum-common-value) |
+| [3751-maximum-frequency-after-subarray-operation](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/3751-maximum-frequency-after-subarray-operation) |
 ## Sliding Window
 |  |
 | ------- |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [1184-car-pooling](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1184-car-pooling) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [3751-maximum-frequency-after-subarray-operation](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/3751-maximum-frequency-after-subarray-operation) |
 ## String
 |  |
 | ------- |
@@ -464,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0917-boats-to-save-people](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0917-boats-to-save-people) |
 | [0985-bag-of-tokens](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0985-bag-of-tokens) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [3751-maximum-frequency-after-subarray-operation](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/3751-maximum-frequency-after-subarray-operation) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -505,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [1236-n-th-tribonacci-number](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1250-longest-common-subsequence) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [3751-maximum-frequency-after-subarray-operation](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/3751-maximum-frequency-after-subarray-operation) |
 ## Stack
 |  |
 | ------- |
@@ -800,6 +805,7 @@ A collection of LeetCode questions to ace the coding interview.
 | ------- |
 | [2442-number-of-arithmetic-triplets](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2442-number-of-arithmetic-triplets) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
+| [3751-maximum-frequency-after-subarray-operation](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/3751-maximum-frequency-after-subarray-operation) |
 ## Merge Sort
 |  |
 | ------- |
