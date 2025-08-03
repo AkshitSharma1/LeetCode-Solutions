@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [2698-find-the-array-concatenation-value](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2698-find-the-array-concatenation-value) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/3751-maximum-frequency-after-subarray-operation) |
 ## Hash Table
 |  |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2786-find-the-longest-semi-repetitive-substring](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2786-find-the-longest-semi-repetitive-substring) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -467,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0917-boats-to-save-people](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0917-boats-to-save-people) |
 | [0985-bag-of-tokens](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0985-bag-of-tokens) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/3751-maximum-frequency-after-subarray-operation) |
 ## Dynamic Programming
 |  |
