@@ -3,20 +3,15 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
-
-        left,right=0,0
+        i,j = 0,0
         n = len(nums)
-        while right<n:
-            while right<n and nums[right]==0:
-                right+=1
-            if right==n: break
-
-            nums[left]=nums[right]
-            left+=1
-            right+=1
-
-        while left<n: 
-            nums[left]=0
-            left+=1
+        while j<n:
+            if nums[j]!=0:
+                nums[i] = nums[j]
+                i+=1
+            j+=1
+        while i<n: 
+            nums[i] = 0
+            i+=1
         return nums
         
