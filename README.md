@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0739-daily-temperatures](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0747-min-cost-climbing-stairs](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0747-min-cost-climbing-stairs) |
+| [0752-open-the-lock](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0752-open-the-lock) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [0861-flipping-an-image](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0861-flipping-an-image) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0560-subarray-sum-equals-k](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0752-open-the-lock](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0752-open-the-lock) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0940-fruit-into-baskets](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0940-fruit-into-baskets) |
 | [0959-3sum-with-multiplicity](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0959-3sum-with-multiplicity) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0680-valid-palindrome-ii](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0752-open-the-lock](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0752-open-the-lock) |
 | [1250-longest-common-subsequence](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1250-longest-common-subsequence) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
@@ -653,6 +656,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0695-max-area-of-island](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0744-network-delay-time) |
+| [0752-open-the-lock](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0752-open-the-lock) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0801-is-graph-bipartite](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0801-is-graph-bipartite) |
