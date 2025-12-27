@@ -714,6 +714,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0332-reconstruct-itinerary](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0332-reconstruct-itinerary) |
 | [0399-evaluate-division](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0399-evaluate-division) |
 | [0472-concatenated-words](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0472-concatenated-words) |
 | [0529-minesweeper](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0529-minesweeper) |
@@ -757,6 +758,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0207-course-schedule](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0332-reconstruct-itinerary](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0332-reconstruct-itinerary) |
 | [0399-evaluate-division](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [0744-network-delay-time](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0744-network-delay-time) |
@@ -874,4 +876,8 @@ A collection of LeetCode questions to ace the coding interview.
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0332-reconstruct-itinerary) |
 <!---LeetCode Topics End-->
