@@ -683,6 +683,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [1036-rotting-oranges](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1036-rotting-oranges) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1753-path-with-minimum-effort](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1753-path-with-minimum-effort) |
 ## Binary Indexed Tree
@@ -733,6 +734,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1753-path-with-minimum-effort](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1753-path-with-minimum-effort) |
@@ -813,6 +815,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0764-n-ary-tree-level-order-traversal](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
@@ -834,6 +837,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0543-diameter-of-binary-tree](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## String Matching
