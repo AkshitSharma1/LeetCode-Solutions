@@ -9,7 +9,6 @@ class Solution:
     def maxPathSum(self, root: Optional[TreeNode]) -> int:
         answer = float("-inf")
         # base case- when only 1 node
-        if root is None: return 0 # when root is None
     
         def max_path_sum(node):
             nonlocal answer
