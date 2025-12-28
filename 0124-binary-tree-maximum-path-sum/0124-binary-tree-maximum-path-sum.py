@@ -4,22 +4,25 @@
 #         self.val = val
 #         self.left = left
 #         self.right = right
+
 class Solution:
     def maxPathSum(self, root: Optional[TreeNode]) -> int:
-        #can this give the max path sum
-        maxPathSum = float("-inf")
-        def dfs(node):
-            nonlocal maxPathSum
+        answer = float("-inf")
+        # base case- when only 1 node
+        if root is None: return 0 # when root is None
+    
+        def max_path_sum(node):
+            nonlocal answer
             if node is None: return 0
+            left_path_sum = max_path_sum(node.left)
+            right_path_sum = max_path_sum(node.right)
+            answer = max(answer,
+            max(0,left_path_sum)+max(0,right_path_sum)+node.val)
+            value_to_return = node.val + max(0,max(left_path_sum,right_path_sum))
             
-            leftMaxSum = dfs(node.left)
-            rightMaxSum = dfs(node.right)
-          
+            return value_to_return
+        max_path_sum(root)
+        return answer
 
-            maxPathSum= max(maxPathSum,leftMaxSum+rightMaxSum+node.val)
-
-            return max(0,node.val + max(0,max(leftMaxSum,rightMaxSum)))
-        dfs(root)
-        return maxPathSum
 
         
