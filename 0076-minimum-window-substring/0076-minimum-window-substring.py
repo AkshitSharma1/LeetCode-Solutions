@@ -1,35 +1,27 @@
-from collections import Counter
 class Solution:
     def minWindow(self, s: str, t: str) -> str:
-        
-        left,right = 0,0
-        counter = Counter()
-        uniqueCharCount = 0
-        for char in t:
-            counter[char]+=1
-            if counter[char]==1:
-                uniqueCharCount+=1
-        
-
-        length = 1e7
-        ans=""
-        left=0
-        for right in range(len(s)):
-            if s[right] in counter:
-                counter[s[right]]-=1
-                if counter[s[right]]==0: uniqueCharCount-=1
-          
-            while uniqueCharCount==0 and left<=right:
-
-                
-                if right-left+1<length:
-                    length = right-left+1
-                    ans = s[left:right+1]
-
-                if s[left] in counter:
-                    counter[s[left]]+=1
-                    if counter[s[left]]==1: uniqueCharCount+=1
-                left+=1
-        return ans
+        frequencyMap = Counter(t)
+        uniqueCharCount = len(frequencyMap)
+        l = 0
+        minWindow = (-1,-1)
+        minWindowLength = float("inf")
+        for r,char in enumerate(s):
+            if char in frequencyMap:
+                frequencyMap[char]-=1
+                if frequencyMap[char]==0: uniqueCharCount-=1
             
-
+            while uniqueCharCount==0:
+                if minWindowLength>r-l+1:
+                    minWindowLength = r-l+1
+                    minWindow = (l,r)
+                
+                if s[l] in frequencyMap: 
+                    frequencyMap[s[l]]+=1
+                    if frequencyMap[s[l]]>0:
+                        uniqueCharCount+=1
+                l+=1
+        
+        return "" if minWindow[0]==-1 else s[minWindow[0]:minWindow[1]+1]
+                
+                
+        
