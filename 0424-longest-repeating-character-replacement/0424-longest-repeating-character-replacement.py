@@ -7,10 +7,7 @@ class Solution:
         answer = 0
         for r,char in enumerate(s):
             char_count[char]+=1
-            for c,c_frequency in char_count.items():
-                if c_frequency>max_char_count:
-                    max_char_count = c_frequency
-                    max_char = c
+            max_char_count = max(char_count[char],max_char_count)
             
             number_of_chars_to_replace = r-l+1-max_char_count
             while r-l+1-max_char_count>k:
