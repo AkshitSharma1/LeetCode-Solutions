@@ -1,16 +1,21 @@
 class Solution:
     def characterReplacement(self, s: str, k: int) -> int:
-        maxLength = 0
-        frequencyMap = defaultdict(int)
+        char_count = defaultdict(int)
+        max_char_count = 0
+        max_char = ''
         l = 0
-        n = len(s)
-        maxFrequencyChar = 0
+        answer = 0
         for r,char in enumerate(s):
-            frequencyMap[char]+=1
-            maxFrequencyChar = max(maxFrequencyChar,frequencyMap[char])
-            while r-l+1-maxFrequencyChar>k:
-                frequencyMap[s[l]]-=1
+            char_count[char]+=1
+            for c,c_frequency in char_count.items():
+                if c_frequency>max_char_count:
+                    max_char_count = c_frequency
+                    max_char = c
+            
+            number_of_chars_to_replace = r-l+1-max_char_count
+            while r-l+1-max_char_count>k:
+                char_count[s[l]]-=1
                 l+=1
             
-            maxLength = max(maxLength,r-l+1)
-        return maxLength
+            answer = max(answer,r-l+1)
+        return answer
