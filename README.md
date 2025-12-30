@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0643-maximum-average-subarray-i](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0682-baseball-game](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [0695-max-area-of-island](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0713-subarray-product-less-than-k](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
@@ -569,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0456-132-pattern](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0456-132-pattern) |
 | [0503-next-greater-element-ii](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0682-baseball-game](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0883-car-fleet) |
 | [0937-online-stock-span](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0937-online-stock-span) |
@@ -595,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview.
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [0861-flipping-an-image](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0861-flipping-an-image) |
 | [1184-car-pooling](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1184-car-pooling) |
 | [2698-find-the-array-concatenation-value](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2698-find-the-array-concatenation-value) |
