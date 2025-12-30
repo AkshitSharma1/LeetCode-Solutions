@@ -1,21 +1,14 @@
-import math
 class Solution:
-    def dist(self,a,b):
-        return math.fabs(a-b)
     def findClosestElements(self, arr: List[int], k: int, x: int) -> List[int]:
-        self.maxHeap = []
-        heapq.heapify(self.maxHeap)
-        for num in arr:
-            if len(self.maxHeap)<k:
-                heapq.heappush(self.maxHeap,(-self.dist(num,x),num))
+        n = len(arr)
+        l = 0
+        r = n-1
+        while r-l+1>k:
+            if abs(arr[r]-x)<abs(arr[l]-x):
+                l+=1
             else:
-                maxDistElement = -self.maxHeap[0][0]
-                if maxDistElement>self.dist(num,x) or (maxDistElement==self.dist(num,x) and num<self.maxHeap[0][1]): 
-                    heapq.heappop(self.maxHeap)
-                    heapq.heappush(self.maxHeap,(-self.dist(num,x),num))
-        
-        answer = []
-        while self.maxHeap:
-            answer.append(heapq.heappop(self.maxHeap)[1])
-        return sorted(answer)
+                r-=1
+        return arr[l:r+1]
 
+
+        
