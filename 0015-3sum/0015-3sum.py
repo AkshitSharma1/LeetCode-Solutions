@@ -18,7 +18,7 @@ class Solution:
                 else:
                     answer.append([nums[k],nums[i],nums[j]])
                     i+=1
-                while i>k+1 and i<n and nums[i]==nums[i-1]: i+=1
+                    while i>k+1 and i<n and nums[i]==nums[i-1]: i+=1
                 #while j>=0 and j<n-1 and nums[j]==nums[j+1]: j-=1
         return answer
 
