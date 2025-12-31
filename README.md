@@ -404,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0300-longest-increasing-subsequence](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0374-guess-number-higher-or-lower](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0436-find-right-interval](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0436-find-right-interval) |
 | [0456-132-pattern](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0456-132-pattern) |
 | [0475-heaters](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0475-heaters) |
@@ -503,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview.
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 ## Greedy
 |  |
 | ------- |
