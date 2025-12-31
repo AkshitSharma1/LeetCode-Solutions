@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0682-baseball-game](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [0695-max-area-of-island](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0704-binary-search](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0733-flood-fill) |
@@ -408,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0475-heaters](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0475-heaters) |
 | [0633-sum-of-square-numbers](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
+| [0704-binary-search](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0907-koko-eating-bananas) |
