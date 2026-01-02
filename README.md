@@ -283,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0953-verifying-an-alien-dictionary](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0953-verifying-an-alien-dictionary) |
 | [1143-longest-common-subsequence](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1250-longest-common-subsequence) |
+| [1405-longest-happy-string](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1405-longest-happy-string) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [1046-last-stone-weight](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1046-last-stone-weight) |
 | [1184-car-pooling](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1184-car-pooling) |
 | [1325-path-with-maximum-probability](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1325-path-with-maximum-probability) |
+| [1405-longest-happy-string](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1405-longest-happy-string) |
 | [1753-path-with-minimum-effort](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1753-path-with-minimum-effort) |
 | [1834-single-threaded-cpu](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1834-single-threaded-cpu) |
 ## Monotonic Queue
@@ -540,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0881-boats-to-save-people](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
 | [0917-boats-to-save-people](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0917-boats-to-save-people) |
 | [0985-bag-of-tokens](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0985-bag-of-tokens) |
+| [1405-longest-happy-string](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1405-longest-happy-string) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/3751-maximum-frequency-after-subarray-operation) |
