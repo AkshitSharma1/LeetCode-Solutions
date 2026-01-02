@@ -19,15 +19,13 @@ class Solution:
             
             if len(max_heap)==0:
                 #No time to run at this time
-                for i in range(queue[0][0]-time):
-                    answer.append("IDLE")
+            
                 time = queue[0][0]
 
                 continue
             
             frequency,execution_time,task = heapq.heappop(max_heap)
             frequency = -frequency
-            answer.append(task)
             frequency-=1
             if frequency>0:
                 queue.append((time+n+1,frequency,task))
