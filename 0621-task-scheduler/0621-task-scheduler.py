@@ -9,9 +9,7 @@ class Solution:
 
         for task in task_names:
             queue.append((0,task_frequency[task],task))
-        del task_frequency
-        del task_names
-        del answer
+ 
         #max frequency heap via (task_frequency,task)
         time = 0
         while queue or max_heap:
