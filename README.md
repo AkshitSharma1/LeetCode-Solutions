@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0621-task-scheduler](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0752-open-the-lock](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0752-open-the-lock) |
+| [0767-reorganize-string](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0767-reorganize-string) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0940-fruit-into-baskets](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0940-fruit-into-baskets) |
 | [0953-verifying-an-alien-dictionary](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0953-verifying-an-alien-dictionary) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0696-count-binary-substrings](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0752-open-the-lock](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0752-open-the-lock) |
+| [0767-reorganize-string](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0767-reorganize-string) |
 | [0953-verifying-an-alien-dictionary](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0953-verifying-an-alien-dictionary) |
 | [1143-longest-common-subsequence](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1250-longest-common-subsequence) |
@@ -388,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0621-task-scheduler](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0744-network-delay-time](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0744-network-delay-time) |
+| [0767-reorganize-string](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0767-reorganize-string) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1046-last-stone-weight](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1046-last-stone-weight) |
 | [1094-car-pooling](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1094-car-pooling) |
@@ -405,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview.
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0621-task-scheduler) |
+| [0767-reorganize-string](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0767-reorganize-string) |
 | [0959-3sum-with-multiplicity](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0959-3sum-with-multiplicity) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Binary Search
@@ -512,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0621-task-scheduler](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
+| [0767-reorganize-string](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0767-reorganize-string) |
 | [0881-boats-to-save-people](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
 | [0883-car-fleet](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0883-car-fleet) |
 | [0917-boats-to-save-people](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0917-boats-to-save-people) |
@@ -543,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0621-task-scheduler](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0680-valid-palindrome-ii](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
+| [0767-reorganize-string](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0767-reorganize-string) |
 | [0881-boats-to-save-people](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
 | [0917-boats-to-save-people](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0917-boats-to-save-people) |
 | [0985-bag-of-tokens](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0985-bag-of-tokens) |
