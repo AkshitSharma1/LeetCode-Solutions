@@ -36,7 +36,6 @@ class Solution:
             #assign to person i
             if friend_index==targetFriend: return chair_index
             heapq.heappush(busy_chairs,(curr_time+departure-arrival,chair_index))
-            curr_time+=1
             i+=1
         return -1
 
