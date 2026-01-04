@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1705-maximum-number-of-eaten-apples](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1705-maximum-number-of-eaten-apples) |
 | [1706-min-cost-to-connect-all-points](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1706-min-cost-to-connect-all-points) |
 | [1753-path-with-minimum-effort](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1753-path-with-minimum-effort) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
@@ -405,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [1184-car-pooling](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1184-car-pooling) |
 | [1325-path-with-maximum-probability](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1325-path-with-maximum-probability) |
 | [1405-longest-happy-string](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1405-longest-happy-string) |
+| [1705-maximum-number-of-eaten-apples](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1705-maximum-number-of-eaten-apples) |
 | [1753-path-with-minimum-effort](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1753-path-with-minimum-effort) |
 | [1834-single-threaded-cpu](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1834-single-threaded-cpu) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1851-minimum-interval-to-include-each-query) |
@@ -570,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0917-boats-to-save-people](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0917-boats-to-save-people) |
 | [0985-bag-of-tokens](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0985-bag-of-tokens) |
 | [1405-longest-happy-string](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1405-longest-happy-string) |
+| [1705-maximum-number-of-eaten-apples](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1705-maximum-number-of-eaten-apples) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/3751-maximum-frequency-after-subarray-operation) |
