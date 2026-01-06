@@ -48,11 +48,10 @@ class Solution:
 
     def getDirections(self, root: Optional[TreeNode], startValue: int, destValue: int) -> str:
         lca = self.get_lca(root,startValue,destValue)
-        path_to_start = []
-        path_to_dest = []
-        self.backtrack_path_startnode(lca,startValue,path_to_start)
-        self.backtrack_path_endnode(lca,destValue,path_to_start)
-        return "".join(path_to_start+path_to_dest)
+        path = []
+        self.backtrack_path_startnode(lca,startValue,path)
+        self.backtrack_path_endnode(lca,destValue,path)
+        return "".join(path)
 
         
 
