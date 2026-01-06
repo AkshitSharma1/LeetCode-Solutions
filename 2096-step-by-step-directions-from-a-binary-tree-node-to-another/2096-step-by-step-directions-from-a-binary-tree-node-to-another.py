@@ -5,55 +5,37 @@
 #         self.left = left
 #         self.right = right
 class Solution:
-    def get_lca(self,curr_node,val1,val2):
-        if  curr_node is None  or curr_node.val==val1 or curr_node.val== val2:
-            return curr_node
-        left_side = self.get_lca(curr_node.left,val1,val2)
-        right_side = self.get_lca(curr_node.right,val1,val2)
-        if left_side and right_side: return curr_node
-        return left_side or right_side
+    def get_lca(self,root,val1,val2):
+        if root is None or root.val in (val1,val2): return root
+        left_part = self.get_lca(root.left,val1,val2)
+        right_part = self.get_lca(root.right,val1,val2)
+        if left_part and right_part: return root
+        return left_part or right_part
     
-    def backtrack_path_startnode(self,curr_node,target_val,path):
-        if curr_node==None: return False
-        if curr_node.val==target_val:
-            return True
-        path.append('U')    
-        try_left = self.backtrack_path_startnode(curr_node.left,target_val,path)
-        if try_left: return True
-        try_right = self.backtrack_path_startnode(curr_node.right,target_val,path)
-        if try_right: return True
+    def path_to_start(self,root,start_val,path):
+        if root is None: return False
+        if root.val==start_val: return True
+        path.append('U')
+        if self.path_to_start(root.left,start_val,path): return True
+        path.pop()
+        path.append('U')
+        if self.path_to_start(root.right,start_val,path): return True
         path.pop()
         return False
     
-    def backtrack_path_endnode(self,curr_node,target_val,path):
-        if curr_node==None: return False
-        if curr_node.val==target_val:
-            return True
-        path.append('L')    
-        try_left = self.backtrack_path_endnode(curr_node.left,target_val,path)
-        if try_left: return True
+    def path_to_dest(self,root,dest_val,path):
+        if root is None: return False
+        if root.val==dest_val: return True
+        path.append('L')
+        if self.path_to_dest(root.left,dest_val,path): return True
         path.pop()
-        path.append('R')    
-        try_right = self.backtrack_path_endnode(curr_node.right,target_val,path)
-        if try_right: return True
+        path.append('R')
+        if self.path_to_dest(root.right,dest_val,path): return True
         path.pop()
         return False
-
-        
-        
-    
-
-
-        
-
     def getDirections(self, root: Optional[TreeNode], startValue: int, destValue: int) -> str:
         lca = self.get_lca(root,startValue,destValue)
         path = []
-        self.backtrack_path_startnode(lca,startValue,path)
-        self.backtrack_path_endnode(lca,destValue,path)
+        self.path_to_start(lca,startValue,path)
+        self.path_to_dest(lca,destValue,path)
         return "".join(path)
-
-        
-
-        
-        
