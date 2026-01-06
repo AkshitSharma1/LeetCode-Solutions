@@ -742,6 +742,7 @@ A collection of LeetCode questions to ace the coding interview.
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0126-word-ladder-ii](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0126-word-ladder-ii) |
@@ -792,6 +793,7 @@ A collection of LeetCode questions to ace the coding interview.
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -891,6 +893,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0096-unique-binary-search-trees](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
@@ -916,6 +919,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0096-unique-binary-search-trees](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
