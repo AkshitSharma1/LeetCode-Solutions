@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0088-merge-sorted-array](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0090-subsets-ii) |
 | [0139-word-break](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0140-word-break-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0126-word-ladder-ii](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0127-word-ladder](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0127-word-ladder) |
 | [0132-palindrome-partitioning-ii](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0140-word-break-ii) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0290-word-pattern](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0344-reverse-string) |
@@ -601,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0124-binary-tree-maximum-path-sum](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0132-palindrome-partitioning-ii](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0140-word-break-ii) |
 | [0279-perfect-squares](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0312-burst-balloons) |
@@ -708,6 +712,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0079-word-search](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0090-subsets-ii) |
 | [0126-word-ladder-ii](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0126-word-ladder-ii) |
+| [0140-word-break-ii](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0140-word-break-ii) |
 | [0216-combination-sum-iii](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0216-combination-sum-iii) |
 | [0494-target-sum](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0494-target-sum) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
@@ -717,6 +722,7 @@ A collection of LeetCode questions to ace the coding interview.
 | ------- |
 | [0070-climbing-stairs](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0140-word-break-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1013-fibonacci-number](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
@@ -841,6 +847,7 @@ A collection of LeetCode questions to ace the coding interview.
 | ------- |
 | [0014-longest-common-prefix](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0140-word-break-ii) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0472-concatenated-words](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0472-concatenated-words) |
 | [2707-extra-characters-in-a-string](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2707-extra-characters-in-a-string) |
