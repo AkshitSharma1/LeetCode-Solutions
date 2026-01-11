@@ -305,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0752-open-the-lock](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0752-open-the-lock) |
 | [0767-reorganize-string](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0767-reorganize-string) |
 | [0953-verifying-an-alien-dictionary](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0953-verifying-an-alien-dictionary) |
+| [1106-parsing-a-boolean-expression](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1106-parsing-a-boolean-expression) |
 | [1143-longest-common-subsequence](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1250-longest-common-subsequence) |
 | [1405-longest-happy-string](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1405-longest-happy-string) |
@@ -665,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0937-online-stock-span](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [1072-next-greater-node-in-linked-list](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1072-next-greater-node-in-linked-list) |
+| [1106-parsing-a-boolean-expression](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1106-parsing-a-boolean-expression) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [2227-sum-of-subarray-ranges](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2227-sum-of-subarray-ranges) |
 ## Monotonic Stack
@@ -743,6 +745,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0206-reverse-linked-list](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
+| [1106-parsing-a-boolean-expression](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1106-parsing-a-boolean-expression) |
 ## Divide and Conquer
 |  |
 | ------- |
