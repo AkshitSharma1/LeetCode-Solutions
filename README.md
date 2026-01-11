@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [2707-extra-characters-in-a-string](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2707-extra-characters-in-a-string) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
+| [3481-apply-substitutions](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/3481-apply-substitutions) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/3751-maximum-frequency-after-subarray-operation) |
 ## Hash Table
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [2561-number-of-distinct-averages](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2561-number-of-distinct-averages) |
 | [2634-minimum-common-value](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2634-minimum-common-value) |
 | [2707-extra-characters-in-a-string](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2707-extra-characters-in-a-string) |
+| [3481-apply-substitutions](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/3481-apply-substitutions) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/3751-maximum-frequency-after-subarray-operation) |
 ## Sliding Window
 |  |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2707-extra-characters-in-a-string](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2707-extra-characters-in-a-string) |
 | [2786-find-the-longest-semi-repetitive-substring](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2786-find-the-longest-semi-repetitive-substring) |
+| [3481-apply-substitutions](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/3481-apply-substitutions) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -790,6 +793,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [1448-count-good-nodes-in-binary-tree](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1753-path-with-minimum-effort](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1753-path-with-minimum-effort) |
+| [3481-apply-substitutions](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/3481-apply-substitutions) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -845,6 +849,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [1544-count-good-nodes-in-binary-tree](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1753-path-with-minimum-effort](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1753-path-with-minimum-effort) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [3481-apply-substitutions](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/3481-apply-substitutions) |
 ## Trie
 |  |
 | ------- |
@@ -886,6 +891,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [1442-number-of-operations-to-make-network-connected](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1706-min-cost-to-connect-all-points](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1706-min-cost-to-connect-all-points) |
+| [3481-apply-substitutions](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/3481-apply-substitutions) |
 ## Shortest Path
 |  |
 | ------- |
@@ -900,6 +906,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0207-course-schedule](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [3481-apply-substitutions](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/3481-apply-substitutions) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
