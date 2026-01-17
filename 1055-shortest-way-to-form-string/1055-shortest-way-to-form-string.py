@@ -8,7 +8,7 @@ class Solution:
         answer = 0
         while target_index<len(target):
             target_ch = target[target_index]
-            if target_ch not in source: return -1
+            if target_ch not in char_pos: return -1
             src_pos = char_pos[target_ch]
             index = bisect_right(src_pos,src_index)
             if index==len(src_pos):
