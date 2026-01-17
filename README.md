@@ -310,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0792-number-of-matching-subsequences](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0792-number-of-matching-subsequences) |
 | [0953-verifying-an-alien-dictionary](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0953-verifying-an-alien-dictionary) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1055-shortest-way-to-form-string](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1055-shortest-way-to-form-string) |
 | [1106-parsing-a-boolean-expression](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1106-parsing-a-boolean-expression) |
 | [1143-longest-common-subsequence](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1250-longest-common-subsequence) |
@@ -391,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0959-3sum-with-multiplicity](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0959-3sum-with-multiplicity) |
 | [0985-bag-of-tokens](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0985-bag-of-tokens) |
 | [1019-squares-of-a-sorted-array](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
+| [1055-shortest-way-to-form-string](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1055-shortest-way-to-form-string) |
 | [1168-duplicate-zeros](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1168-duplicate-zeros) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -479,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0907-koko-eating-bananas](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0907-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-max-consecutive-ones-iii](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
+| [1055-shortest-way-to-form-string](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1055-shortest-way-to-form-string) |
 | [1231-divide-chocolate](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1231-divide-chocolate) |
 | [1232-sum-of-mutated-array-closest-to-target](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1232-sum-of-mutated-array-closest-to-target) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
@@ -594,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0881-boats-to-save-people](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
 | [0917-boats-to-save-people](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0917-boats-to-save-people) |
 | [0985-bag-of-tokens](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0985-bag-of-tokens) |
+| [1055-shortest-way-to-form-string](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1055-shortest-way-to-form-string) |
 | [1405-longest-happy-string](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1405-longest-happy-string) |
 | [1705-maximum-number-of-eaten-apples](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1705-maximum-number-of-eaten-apples) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
