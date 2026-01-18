@@ -16,7 +16,7 @@ class Solution:
                     temp = bisect_right(end_cords,cord)
                     if temp>0: bottom_rects = temp
                 else:
-                    top_rects = m - bisect_right(end_cords,cord)
+                    top_rects = m - bisect_left(start_cords,cord)
                     middle_rects = m - top_rects-bottom_rects
                     if top_rects>0 and middle_rects>0: return True
             return False
