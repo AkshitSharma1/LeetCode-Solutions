@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [1094-car-pooling](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1094-car-pooling) |
 | [1168-duplicate-zeros](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1168-duplicate-zeros) |
 | [1184-car-pooling](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1184-car-pooling) |
+| [1224-maximum-equal-frequency](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1224-maximum-equal-frequency) |
 | [1231-divide-chocolate](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1231-divide-chocolate) |
 | [1232-sum-of-mutated-array-closest-to-target](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1232-sum-of-mutated-array-closest-to-target) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1305-number-of-visible-people-in-a-queue) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0997-find-the-town-judge](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0997-find-the-town-judge) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1224-maximum-equal-frequency](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1224-maximum-equal-frequency) |
 | [1370-count-number-of-nice-subarrays](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
