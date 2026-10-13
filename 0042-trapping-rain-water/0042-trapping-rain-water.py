@@ -1,20 +1,21 @@
 class Solution:
     def trap(self, height: list[int]) -> int:
-        l = 0
-        r = len(height)-1
-        max_height_l,max_height_r = 0,0
+        pi_height = height[0]
+        n = len(height)
+        pj_height = height[n-1]
+        pi = 0
+        pj = n-1
         ans = 0
-        while l<=r:
-            max_height_l = max(max_height_l,height[l])
-            max_height_r = max(max_height_r,height[r])
-            if max_height_l<=max_height_r:
-                ans += max_height_l-height[l]
-                l+=1
+        while pi<pj:
+            pi_height = max(height[pi],pi_height)
+            pj_height = max(height[pj],pj_height)
+            if pi_height<=pj_height:
+                ans += pi_height-height[pi]
+                pi+=1
             else:
-                ans+=max_height_r-height[r]
-                r-=1
+                ans+=pj_height-height[pj]
+                pj-=1
         return ans
-
-
             
+
         
