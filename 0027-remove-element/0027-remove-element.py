@@ -1,13 +1,11 @@
 class Solution:
-    def removeElement(self, nums: List[int], val: int) -> int:
-        i,j=0,0
+    def removeElement(self, nums: list[int], val: int) -> int:
+        pi = 0
+        pj = 0
         n = len(nums)
-        while j<n:
-    
-            if nums[j]==val:
-                j+=1
-            else:
-                nums[i] = nums[j]
-                i+=1
-                j+=1
-        return i
+        while pj<n:
+            if nums[pj]!=val:
+                nums[pi] = nums[pj]
+                pi+=1
+            pj+=1
+        return pi
