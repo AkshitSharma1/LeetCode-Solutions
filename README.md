@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0076-minimum-window-substring](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0126-word-ladder-ii](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0126-word-ladder-ii) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0071-simplify-path](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
