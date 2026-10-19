@@ -1,27 +1,30 @@
 class Solution:
     def minWindow(self, s: str, t: str) -> str:
-        frequencyMap = Counter(t)
-        uniqueCharCount = len(frequencyMap)
+        ans = [-1,-1]
+        min_length = float("inf")
         l = 0
-        minWindow = (-1,-1)
-        minWindowLength = float("inf")
-        for r,char in enumerate(s):
-            if char in frequencyMap:
-                frequencyMap[char]-=1
-                if frequencyMap[char]==0: uniqueCharCount-=1
+        char_count = Counter(t)
+        non_zero_char_count = len(char_count)
+        n = len(s)
+        for r in range(n):
+            #Grow the window
+            if s[r] in char_count: 
+                char_count[s[r]]-=1
+                if char_count[s[r]]==0: non_zero_char_count-=1
             
-            while uniqueCharCount==0:
-                if minWindowLength>r-l+1:
-                    minWindowLength = r-l+1
-                    minWindow = (l,r)
-                
-                if s[l] in frequencyMap: 
-                    frequencyMap[s[l]]+=1
-                    if frequencyMap[s[l]]>0:
-                        uniqueCharCount+=1
+            while non_zero_char_count==0:
+                #we have covered all chars of t
+                #valid ans store this
+                if (r-l+1)<min_length:
+                    min_length = r-l+1
+                    ans = [l,r]
+                if s[l] in char_count:
+                    char_count[s[l]]+=1
+                    if char_count[s[l]]==1: 
+                        non_zero_char_count+=1
+                        l+=1
+                        break
                 l+=1
-        
-        return "" if minWindow[0]==-1 else s[minWindow[0]:minWindow[1]+1]
-                
-                
-        
+        l,r = ans
+        return s[l:r+1]
+            
