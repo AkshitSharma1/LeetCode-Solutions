@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0881-boats-to-save-people](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0883-car-fleet](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0883-car-fleet) |
+| [0904-fruit-into-baskets](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0907-koko-eating-bananas](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0907-koko-eating-bananas) |
 | [0911-profitable-schemes](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0911-profitable-schemes) |
 | [0917-boats-to-save-people](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0917-boats-to-save-people) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0767-reorganize-string](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0767-reorganize-string) |
 | [0792-number-of-matching-subsequences](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0792-number-of-matching-subsequences) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0904-fruit-into-baskets](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0940-fruit-into-baskets](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0940-fruit-into-baskets) |
 | [0953-verifying-an-alien-dictionary](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0953-verifying-an-alien-dictionary) |
 | [0959-3sum-with-multiplicity](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0959-3sum-with-multiplicity) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0643-maximum-average-subarray-i](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
+| [0904-fruit-into-baskets](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0940-fruit-into-baskets](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
