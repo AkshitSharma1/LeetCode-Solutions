@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [2634-minimum-common-value](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2634-minimum-common-value) |
 | [2698-find-the-array-concatenation-value](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2698-find-the-array-concatenation-value) |
 | [2707-extra-characters-in-a-string](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2707-extra-characters-in-a-string) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 | [3394-check-if-grid-can-be-cut-into-sections](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/3394-check-if-grid-can-be-cut-into-sections) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [2561-number-of-distinct-averages](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2561-number-of-distinct-averages) |
 | [2634-minimum-common-value](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2634-minimum-common-value) |
 | [2707-extra-characters-in-a-string](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2707-extra-characters-in-a-string) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3481-apply-substitutions](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/3481-apply-substitutions) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/3751-maximum-frequency-after-subarray-operation) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2786-find-the-longest-semi-repetitive-substring](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2786-find-the-longest-semi-repetitive-substring) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Prefix Sum
