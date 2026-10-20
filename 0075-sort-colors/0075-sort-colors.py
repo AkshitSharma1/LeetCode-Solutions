@@ -1,22 +1,18 @@
 class Solution:
-    def sortColors(self, nums: List[int]) -> None:
+    def sortColors(self, nums: list[int]) -> None:
         """
         Do not return anything, modify nums in-place instead.
         """
-        i = 0
-        n = len(nums)
-        for j in range(n):
-            while i<j and nums[i]==0: i+=1
-            if nums[j]==0:
-                nums[i],nums[j] = nums[j],nums[i]
-                i+=1
+        pi = 0 #write pointer
+        for pj in range(len(nums)):
+            if nums[pj]==0:
+                nums[pi],nums[pj] = nums[pj],nums[pi]
+                pi+=1
         
-        i=0
-        j = 0
-        for j in range(n):
-            while i<j and (nums[i]==0 or nums[i]==1): i+=1
-            if nums[j] ==1:
-                nums[i],nums[j] = nums[j],nums[i]
-        return nums
-
+        for pj in range(pi,len(nums)):
+            if nums[pj]==1:
+                nums[pi],nums[pj] = nums[pj],nums[pi]
+                pi+=1
+    
+        
         
