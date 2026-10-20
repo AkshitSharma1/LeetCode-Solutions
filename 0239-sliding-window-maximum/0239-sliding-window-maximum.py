@@ -1,18 +1,16 @@
 class Solution:
-    def maxSlidingWindow(self, nums: List[int], k: int) -> List[int]:
-        monotonic_queue = deque()
-        answer = []
-        
-        for r,num in enumerate(nums):
-            while monotonic_queue and nums[monotonic_queue[-1]]<num:
-                monotonic_queue.pop()
-            monotonic_queue.append(r)
-
-            while monotonic_queue and monotonic_queue[0]<r+1-k:
-                monotonic_queue.popleft()
-            if r+1-k>=0: answer.append(nums[monotonic_queue[0]])
-        return answer
-
-
-
-
+    def maxSlidingWindow(self, nums: list[int], k: int) -> list[int]:
+        max_value = []
+        queue = deque()
+        l = 0
+        n = len(nums)
+        for r in range(n):
+            while queue and queue[-1]<nums[r]:
+                 queue.pop()
+                 
+            queue.append(nums[r])
+            while r-l+1>k:
+                if nums[l]==queue[0]: queue.popleft()
+                l+=1
+            if r-l+1==k:  max_value.append(queue[0])
+        return max_value
