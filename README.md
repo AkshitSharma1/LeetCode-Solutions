@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1813-maximum-erasure-value](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1813-maximum-erasure-value) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1942-the-number-of-the-smallest-unoccupied-chair](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1942-the-number-of-the-smallest-unoccupied-chair) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [1695-maximum-erasure-value](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1695-maximum-erasure-value) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1813-maximum-erasure-value](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1813-maximum-erasure-value) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -470,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0621-task-scheduler](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0767-reorganize-string) |
 | [0959-3sum-with-multiplicity](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0959-3sum-with-multiplicity) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Binary Search
 |  |
