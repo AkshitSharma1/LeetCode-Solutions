@@ -265,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [1813-maximum-erasure-value](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1813-maximum-erasure-value) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2707-extra-characters-in-a-string](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2707-extra-characters-in-a-string) |
 | [2786-find-the-longest-semi-repetitive-substring](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2786-find-the-longest-semi-repetitive-substring) |
@@ -541,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [1013-fibonacci-number](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1236-n-th-tribonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2269-find-the-k-beauty-of-a-number) |
 ## Design
 |  |
 | ------- |
