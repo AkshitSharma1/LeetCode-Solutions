@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [1224-maximum-equal-frequency](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1224-maximum-equal-frequency) |
 | [1231-divide-chocolate](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1231-divide-chocolate) |
 | [1232-sum-of-mutated-array-closest-to-target](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1232-sum-of-mutated-array-closest-to-target) |
+| [1288-remove-covered-intervals](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1325-path-with-maximum-probability](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1325-path-with-maximum-probability) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -604,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [1094-car-pooling](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1094-car-pooling) |
 | [1184-car-pooling](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1184-car-pooling) |
 | [1232-sum-of-mutated-array-closest-to-target](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1232-sum-of-mutated-array-closest-to-target) |
+| [1288-remove-covered-intervals](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
