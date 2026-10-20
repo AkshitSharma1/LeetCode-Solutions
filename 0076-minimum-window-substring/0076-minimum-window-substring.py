@@ -1,30 +1,30 @@
 class Solution:
     def minWindow(self, s: str, t: str) -> str:
-        ans = [-1,-1]
-        min_length = float("inf")
+        #let length s = n, len t = m
         l = 0
-        char_count = Counter(t)
-        non_zero_char_count = len(char_count)
+        char_goal = Counter(t)
+        min_length = float("inf")
+        ans = None
+        zero_freq_char_count = 0
         n = len(s)
         for r in range(n):
-            #Grow the window
-            if s[r] in char_count: 
-                char_count[s[r]]-=1
-                if char_count[s[r]]==0: non_zero_char_count-=1
-            
-            while non_zero_char_count==0:
-                #we have covered all chars of t
-                #valid ans store this
-                if (r-l+1)<min_length:
+            if s[r] in char_goal:
+                char_goal[s[r]]-=1
+                if char_goal[s[r]]==0: zero_freq_char_count+=1
+
+            while zero_freq_char_count==len(char_goal):
+                if (r-l+1<min_length):
                     min_length = r-l+1
                     ans = [l,r]
-                if s[l] in char_count:
-                    char_count[s[l]]+=1
-                    if char_count[s[l]]==1: 
-                        non_zero_char_count+=1
-                        l+=1
-                        break
+                if s[l] in char_goal:
+                    char_goal[s[l]]+=1
+                    if char_goal[s[l]]==1: zero_freq_char_count-=1
                 l+=1
+        
+        if ans is None:
+            return ""
         l,r = ans
         return s[l:r+1]
-            
+
+
+
