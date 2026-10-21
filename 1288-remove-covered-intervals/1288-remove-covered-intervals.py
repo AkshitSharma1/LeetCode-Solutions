@@ -1,19 +1,23 @@
 class Solution:
     def removeCoveredIntervals(self, intervals: list[list[int]]) -> int:
-        intervals.sort(key=lambda x:(x[0],x[1]))
-        ans = [intervals[0]]
-        for interval in intervals[1:]:
-            #c1- this covers the earlier interval
-            if ans[-1][0]>=interval[0] and ans[-1][1]<=interval[1]:
-                ans.pop()
-                ans.append(interval)
+        intervals.sort(key=lambda x:x[0])
+        prev_start = float("-inf")
+        prev_end = float("-inf")
+        remaining_interval = 0 
+        for curr_start,curr_end in intervals:
+            #c1. new interval covered completely by earlier
+            if curr_start>=prev_start and curr_end<=prev_end:
+                #remove this continue, do nothing
                 continue
-            #c2 this is covered by earlier interval
-            if ans[-1][0]<=interval[0] and ans[-1][1]>=interval[1]:
+            elif curr_start==prev_start and curr_end>=prev_end:
+                #remove this interval
+                prev_end = curr_end
+            else:
+                remaining_interval+=1
+                prev_start = curr_start
+                prev_end = curr_end
                 continue
-            
-            ans.append(interval)
-        return len(ans)
 
 
-        
+
+        return remaining_interval
