@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0621-task-scheduler](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0646-maximum-length-of-pair-chain](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0658-find-k-closest-elements](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0682-baseball-game) |
@@ -598,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0502-ipo](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0502-ipo) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0621-task-scheduler](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0621-task-scheduler) |
+| [0646-maximum-length-of-pair-chain](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0658-find-k-closest-elements](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0767-reorganize-string](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0767-reorganize-string) |
 | [0792-number-of-matching-subsequences](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0792-number-of-matching-subsequences) |
@@ -638,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0502-ipo](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0502-ipo) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0621-task-scheduler](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0621-task-scheduler) |
+| [0646-maximum-length-of-pair-chain](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0680-valid-palindrome-ii](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0767-reorganize-string](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0767-reorganize-string) |
 | [0881-boats-to-save-people](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
@@ -685,6 +688,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0516-longest-palindromic-subsequence](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0583-delete-operation-for-two-strings) |
+| [0646-maximum-length-of-pair-chain](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -1097,4 +1101,8 @@ A collection of LeetCode questions to ace the coding interview.
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0075-sort-colors) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
 <!---LeetCode Topics End-->
