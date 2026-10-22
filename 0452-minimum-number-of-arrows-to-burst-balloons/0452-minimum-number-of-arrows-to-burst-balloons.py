@@ -1,21 +1,15 @@
 class Solution:
-    def findMinArrowShots(self, intervals: list[list[int]]) -> int:
-        intervals.sort(key=lambda x:(x[0],x[1]))
-        if len(intervals)<=1: return len(intervals)
-        n = len(intervals)
-        arrow_count = 0
-        curr_start = float("inf")
-        curr_end = float("inf")
-        for r in range(0,n):
-            if r<n and intervals[r][0]<=curr_end:
-                curr_end = min(intervals[r][1],curr_end)
-                curr_start = min(intervals[r][0],curr_end)
-                continue
+    def findMinArrowShots(self, points: list[list[int]]) -> int:
+        points.sort(key=lambda x:x[0])
+        prev_start = prev_end = float("-inf")
+        arrows_required = 0
+        for curr_start,curr_end in points:
+            if curr_start>prev_end:
+                prev_start = curr_start
+                prev_end = curr_end
+                arrows_required +=1
             else:
-                arrow_count+=1
-                curr_start = intervals[r][0]
-                curr_end = intervals[r][1]
-        arrow_count+=1
-        return arrow_count
+                prev_start = max(prev_start,curr_start)
+                prev_end = min(prev_end,curr_end)
 
-            
+        return arrows_required
