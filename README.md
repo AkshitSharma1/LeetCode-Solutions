@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0745-find-smallest-letter-greater-than-target](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0747-min-cost-climbing-stairs](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0752-open-the-lock](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0752-open-the-lock) |
+| [0759-employee-free-time](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0759-employee-free-time) |
 | [0792-number-of-matching-subsequences](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0792-number-of-matching-subsequences) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [0861-flipping-an-image](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0861-flipping-an-image) |
@@ -463,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0621-task-scheduler](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0744-network-delay-time](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0744-network-delay-time) |
+| [0759-employee-free-time](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0759-employee-free-time) |
 | [0767-reorganize-string](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0767-reorganize-string) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1046-last-stone-weight](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1046-last-stone-weight) |
@@ -604,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0621-task-scheduler](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0646-maximum-length-of-pair-chain](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0658-find-k-closest-elements](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
+| [0759-employee-free-time](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0759-employee-free-time) |
 | [0767-reorganize-string](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0767-reorganize-string) |
 | [0792-number-of-matching-subsequences](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0792-number-of-matching-subsequences) |
 | [0881-boats-to-save-people](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
@@ -1112,5 +1115,6 @@ A collection of LeetCode questions to ace the coding interview.
 ## Sweep Line
 |  |
 | ------- |
+| [0759-employee-free-time](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0759-employee-free-time) |
 | [0986-interval-list-intersections](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
