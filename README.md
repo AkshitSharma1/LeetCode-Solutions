@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0959-3sum-with-multiplicity](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0959-3sum-with-multiplicity) |
 | [0966-binary-subarrays-with-sum](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [0985-bag-of-tokens](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0985-bag-of-tokens) |
+| [0986-interval-list-intersections](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0986-interval-list-intersections) |
 | [0997-find-the-town-judge](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0997-find-the-town-judge) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -429,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0958-sort-array-by-parity-ii](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0958-sort-array-by-parity-ii) |
 | [0959-3sum-with-multiplicity](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0959-3sum-with-multiplicity) |
 | [0985-bag-of-tokens](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0985-bag-of-tokens) |
+| [0986-interval-list-intersections](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0986-interval-list-intersections) |
 | [1019-squares-of-a-sorted-array](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1055-shortest-way-to-form-string](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1055-shortest-way-to-form-string) |
 | [1168-duplicate-zeros](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1168-duplicate-zeros) |
@@ -1105,4 +1107,8 @@ A collection of LeetCode questions to ace the coding interview.
 |  |
 | ------- |
 | [0646-maximum-length-of-pair-chain](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
