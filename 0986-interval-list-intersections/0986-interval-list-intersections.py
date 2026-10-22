@@ -17,7 +17,7 @@ class Solution:
             else:
                 #There is overlap
                 ans.append([max(firstList[pi][0],secondList[pj][0]),min(firstList[pi][1],secondList[pj][1])])
-                if firstList[pi][1]<=secondList[pj][1]:
+                if firstList[pi][1]<secondList[pj][1]:
                     pi+=1
                 else:
                     pj+=1
