@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [2707-extra-characters-in-a-string](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2707-extra-characters-in-a-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/3165-find-indices-with-index-and-value-difference-i) |
+| [3169-count-days-without-meetings](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/3169-count-days-without-meetings) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 | [3394-check-if-grid-can-be-cut-into-sections](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/3394-check-if-grid-can-be-cut-into-sections) |
 | [3437-permutations-iii](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/3437-permutations-iii) |
@@ -625,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2402-meeting-rooms-iii](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2402-meeting-rooms-iii) |
 | [2561-number-of-distinct-averages](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2561-number-of-distinct-averages) |
+| [3169-count-days-without-meetings](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/3169-count-days-without-meetings) |
 | [3394-check-if-grid-can-be-cut-into-sections](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/3394-check-if-grid-can-be-cut-into-sections) |
 ## Interactive
 |  |
