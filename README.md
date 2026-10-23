@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1019-squares-of-a-sorted-array](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
+| [1024-video-stitching](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1024-video-stitching) |
 | [1036-rotting-oranges](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1046-last-stone-weight) |
@@ -653,6 +654,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0881-boats-to-save-people](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
 | [0917-boats-to-save-people](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0917-boats-to-save-people) |
 | [0985-bag-of-tokens](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0985-bag-of-tokens) |
+| [1024-video-stitching](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1024-video-stitching) |
 | [1055-shortest-way-to-form-string](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1055-shortest-way-to-form-string) |
 | [1405-longest-happy-string](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1405-longest-happy-string) |
 | [1705-maximum-number-of-eaten-apples](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1705-maximum-number-of-eaten-apples) |
@@ -706,6 +708,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0943-sum-of-subarray-minimums](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [0954-maximum-sum-circular-subarray](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0954-maximum-sum-circular-subarray) |
 | [1013-fibonacci-number](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
+| [1024-video-stitching](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1024-video-stitching) |
 | [1143-longest-common-subsequence](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
 | [1236-n-th-tribonacci-number](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1250-longest-common-subsequence) |
