@@ -1,15 +1,14 @@
 class Solution:
-    def carPooling(self, trips: List[List[int]], capacity: int) -> bool:
-        people_at_time = defaultdict(int)
-        for num_passengers,fro,to in trips:
-            people_at_time[fro]+=num_passengers
-            people_at_time[to]-=num_passengers
-        
-        sorted_time = sorted(people_at_time.keys())
-        people_inside = 0
-        for time in sorted_time:
-            people_inside +=people_at_time[time]
-            if people_inside>capacity:
+    def carPooling(self, trips: list[list[int]], capacity: int) -> bool:
+        transitions = [] #(time,#passenger) array ,
+        for num_passenger,fro,destination in trips:
+            transitions.append((fro,+num_passenger))
+            transitions.append((destination,-num_passenger))
+        transitions.sort(key=lambda x:(x[0],x[1]))
+        running_passenger_count = 0
+        for time,new_passenger_count in transitions:
+            running_passenger_count+=new_passenger_count
+            if running_passenger_count>capacity:
                 return False
+        
         return True
-
