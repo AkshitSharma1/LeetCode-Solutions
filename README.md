@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2365-task-scheduler-ii](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2365-task-scheduler-ii) |
 | [2402-meeting-rooms-iii](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2402-meeting-rooms-iii) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2442-number-of-arithmetic-triplets](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2442-number-of-arithmetic-triplets) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [1184-car-pooling](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1184-car-pooling) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/3751-maximum-frequency-after-subarray-operation) |
 ## String
 |  |
@@ -444,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2093-check-if-string-is-a-prefix-of-array) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2442-number-of-arithmetic-triplets](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2442-number-of-arithmetic-triplets) |
 | [2561-number-of-distinct-averages](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2561-number-of-distinct-averages) |
 | [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
@@ -482,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [1882-process-tasks-using-servers](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1882-process-tasks-using-servers) |
 | [1942-the-number-of-the-smallest-unoccupied-chair](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1942-the-number-of-the-smallest-unoccupied-chair) |
 | [2402-meeting-rooms-iii](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2402-meeting-rooms-iii) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -632,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [1851-minimum-interval-to-include-each-query](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2402-meeting-rooms-iii](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2402-meeting-rooms-iii) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2561-number-of-distinct-averages](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2561-number-of-distinct-averages) |
 | [3169-count-days-without-meetings](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/3169-count-days-without-meetings) |
 | [3394-check-if-grid-can-be-cut-into-sections](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/3394-check-if-grid-can-be-cut-into-sections) |
@@ -662,6 +667,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [1405-longest-happy-string](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1405-longest-happy-string) |
 | [1705-maximum-number-of-eaten-apples](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1705-maximum-number-of-eaten-apples) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/3751-maximum-frequency-after-subarray-operation) |
 ## Dynamic Programming
