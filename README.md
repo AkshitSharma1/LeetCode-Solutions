@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [1168-duplicate-zeros](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1168-duplicate-zeros) |
 | [1184-car-pooling](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1184-car-pooling) |
 | [1224-maximum-equal-frequency](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1224-maximum-equal-frequency) |
+| [1229-meeting-scheduler](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1229-meeting-scheduler) |
 | [1231-divide-chocolate](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1231-divide-chocolate) |
 | [1232-sum-of-mutated-array-closest-to-target](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1232-sum-of-mutated-array-closest-to-target) |
 | [1288-remove-covered-intervals](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1288-remove-covered-intervals) |
@@ -437,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [1019-squares-of-a-sorted-array](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1055-shortest-way-to-form-string](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1055-shortest-way-to-form-string) |
 | [1168-duplicate-zeros](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1168-duplicate-zeros) |
+| [1229-meeting-scheduler](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1229-meeting-scheduler) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
@@ -620,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [1019-squares-of-a-sorted-array](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1094-car-pooling](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1094-car-pooling) |
 | [1184-car-pooling](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1184-car-pooling) |
+| [1229-meeting-scheduler](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1229-meeting-scheduler) |
 | [1232-sum-of-mutated-array-closest-to-target](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1232-sum-of-mutated-array-closest-to-target) |
 | [1288-remove-covered-intervals](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1436-get-watched-videos-by-your-friends) |
