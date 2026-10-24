@@ -1,21 +1,46 @@
+import heapq
+
 class Solution:
     def smallestChair(self, times: list[list[int]], targetFriend: int) -> int:
 
-        times_with_index = sorted([[arrival,leave,index] for index,(arrival,leave) in enumerate(times)],key=lambda x:(x[0],x[1]))
-        #we can make use of min heap
-        #minheap we can store (leave time,index of friend, chair number)
-        min_heap = []
-        empty_chairs_min_heap = []
-        for arrival,departure,friend_index in times_with_index:
-            if len(min_heap)==0:
-                    heapq.heappush(min_heap,(departure,friend_index,0))
-                    if friend_index==targetFriend: return 0
-                    continue
-            while min_heap and min_heap[0][0]<=arrival:
-                heapq.heappush(empty_chairs_min_heap,heapq.heappop(min_heap)[2])
-           
-            new_chair_index = len(min_heap) if len(empty_chairs_min_heap)==0 else heapq.heappop(empty_chairs_min_heap)
+        times_with_index = sorted(
+            [[arrival, leaving, friend_index]
+             for friend_index, (arrival, leaving) in enumerate(times)],
+            key=lambda x: x[0]
+        )
 
-            if friend_index==targetFriend: return new_chair_index
-            heapq.heappush(min_heap,(departure,friend_index,new_chair_index))
+        occupied_chairs_min_heap = []  # (leaving_time, chair)
+        available_chairs_min_heap = []  # chair_number
+
+        for arrival, leaving, friend_index in times_with_index:
+
+            if len(occupied_chairs_min_heap) == 0:
+                if friend_index == targetFriend:
+                    return 0
+                heapq.heappush(occupied_chairs_min_heap, (leaving, 0))
+                continue
+
+            while (occupied_chairs_min_heap
+                   and occupied_chairs_min_heap[0][0] <= arrival):
+                heapq.heappush(
+                    available_chairs_min_heap,
+                    heapq.heappop(occupied_chairs_min_heap)[1]
+                )
+
+            if len(available_chairs_min_heap) == 0:
+                chair = len(occupied_chairs_min_heap)
+
+                if friend_index == targetFriend:
+                    return chair
+
+                heapq.heappush(occupied_chairs_min_heap, (leaving, chair))
+
+            else:
+                chair = heapq.heappop(available_chairs_min_heap)
+
+                if friend_index == targetFriend:
+                    return chair
+
+                heapq.heappush(occupied_chairs_min_heap, (leaving, chair))
+
         return -1
