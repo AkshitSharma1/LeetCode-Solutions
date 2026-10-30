@@ -6,6 +6,7 @@ class Solution:
         l = 0
         n = len(nums)
         r = 10**6+1
+        ans = float("inf")
         def countPairsLessEqual(dist):
             lp = 0
             ans = 0
@@ -21,15 +22,16 @@ class Solution:
 
 
         #bs
-        while l<r:
+        while l<=r:
             m = (l+r)//2
             pairs_less_equal_m = countPairsLessEqual(m)
 
             #function to find number of pairs having dist <=m
             if pairs_less_equal_m>=k:
+                ans = min(ans,m)
                 #look at left
-                r = m 
+                r = m-1
             else:
                 l  = m+1
-        return l
+        return ans
 
