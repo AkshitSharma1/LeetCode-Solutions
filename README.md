@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0216-combination-sum-iii](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0216-combination-sum-iii) |
 | [0219-contains-duplicate-ii](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0253-meeting-rooms-ii](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0253-meeting-rooms-ii) |
 | [0275-h-index-ii](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0283-move-zeroes) |
@@ -518,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0162-find-peak-element](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0275-h-index-ii](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0278-first-bad-version) |
 | [0300-longest-increasing-subsequence](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
@@ -594,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0079-word-search](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0200-number-of-islands) |
+| [0240-search-a-2d-matrix-ii](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0529-minesweeper](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0529-minesweeper) |
@@ -851,6 +854,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0023-merge-k-sorted-lists](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0191-number-of-1-bits](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
+| [0240-search-a-2d-matrix-ii](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0954-maximum-sum-circular-subarray](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0954-maximum-sum-circular-subarray) |
 ## Combinatorics
