@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1370-count-number-of-nice-subarrays](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
+| [1428-leftmost-column-with-at-least-a-one](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1428-leftmost-column-with-at-least-a-one) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
@@ -551,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [1231-divide-chocolate](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1231-divide-chocolate) |
 | [1232-sum-of-mutated-array-closest-to-target](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1232-sum-of-mutated-array-closest-to-target) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1428-leftmost-column-with-at-least-a-one](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1428-leftmost-column-with-at-least-a-one) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1539-kth-missing-positive-number](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1539-kth-missing-positive-number) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -612,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0861-flipping-an-image](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0861-flipping-an-image) |
 | [1036-rotting-oranges](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1036-rotting-oranges) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1428-leftmost-column-with-at-least-a-one](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1428-leftmost-column-with-at-least-a-one) |
 | [1753-path-with-minimum-effort](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1753-path-with-minimum-effort) |
 ## Sorting
 |  |
@@ -670,6 +673,7 @@ A collection of LeetCode questions to ace the coding interview.
 | ------- |
 | [0278-first-bad-version](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
+| [1428-leftmost-column-with-at-least-a-one](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1428-leftmost-column-with-at-least-a-one) |
 ## Greedy
 |  |
 | ------- |
