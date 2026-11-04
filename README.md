@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [1036-rotting-oranges](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1046-last-stone-weight) |
+| [1063-number-of-valid-subarrays](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1063-number-of-valid-subarrays) |
 | [1072-next-greater-node-in-linked-list](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1072-next-greater-node-in-linked-list) |
 | [1094-car-pooling](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1094-car-pooling) |
 | [1168-duplicate-zeros](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1168-duplicate-zeros) |
@@ -783,6 +784,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0937-online-stock-span](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1063-number-of-valid-subarrays](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1063-number-of-valid-subarrays) |
 | [1072-next-greater-node-in-linked-list](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1072-next-greater-node-in-linked-list) |
 | [1106-parsing-a-boolean-expression](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1106-parsing-a-boolean-expression) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1305-number-of-visible-people-in-a-queue) |
@@ -802,6 +804,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0907-sum-of-subarray-minimums](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [0937-online-stock-span](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0943-sum-of-subarray-minimums) |
+| [1063-number-of-valid-subarrays](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1063-number-of-valid-subarrays) |
 | [1072-next-greater-node-in-linked-list](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1072-next-greater-node-in-linked-list) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1856-maximum-subarray-min-product](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1856-maximum-subarray-min-product) |
