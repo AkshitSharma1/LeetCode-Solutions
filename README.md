@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [1813-maximum-erasure-value](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1813-maximum-erasure-value) |
 | [1834-single-threaded-cpu](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1834-single-threaded-cpu) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1851-minimum-interval-to-include-each-query) |
+| [1856-maximum-subarray-min-product](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1856-maximum-subarray-min-product) |
 | [1882-process-tasks-using-servers](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1882-process-tasks-using-servers) |
 | [1942-the-number-of-the-smallest-unoccupied-chair](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1942-the-number-of-the-smallest-unoccupied-chair) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [1184-car-pooling](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1184-car-pooling) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [1856-maximum-subarray-min-product](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1856-maximum-subarray-min-product) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/3751-maximum-frequency-after-subarray-operation) |
 ## String
@@ -784,6 +786,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [1072-next-greater-node-in-linked-list](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1072-next-greater-node-in-linked-list) |
 | [1106-parsing-a-boolean-expression](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1106-parsing-a-boolean-expression) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1305-number-of-visible-people-in-a-queue) |
+| [1856-maximum-subarray-min-product](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1856-maximum-subarray-min-product) |
 | [2227-sum-of-subarray-ranges](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2227-sum-of-subarray-ranges) |
 ## Monotonic Stack
 |  |
@@ -801,6 +804,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0943-sum-of-subarray-minimums](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [1072-next-greater-node-in-linked-list](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1072-next-greater-node-in-linked-list) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1305-number-of-visible-people-in-a-queue) |
+| [1856-maximum-subarray-min-product](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1856-maximum-subarray-min-product) |
 | [2227-sum-of-subarray-ranges](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2227-sum-of-subarray-ranges) |
 ## Simulation
 |  |
@@ -1172,4 +1176,8 @@ A collection of LeetCode questions to ace the coding interview.
 |  |
 | ------- |
 | [0878-nth-magical-number](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0878-nth-magical-number) |
+## Cartesian Tree
+|  |
+| ------- |
+| [1856-maximum-subarray-min-product](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1856-maximum-subarray-min-product) |
 <!---LeetCode Topics End-->
