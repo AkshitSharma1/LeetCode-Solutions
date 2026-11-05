@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [1851-minimum-interval-to-include-each-query](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1856-maximum-subarray-min-product](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1856-maximum-subarray-min-product) |
 | [1882-process-tasks-using-servers](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1882-process-tasks-using-servers) |
+| [1901-find-a-peak-element-ii](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1901-find-a-peak-element-ii) |
 | [1942-the-number-of-the-smallest-unoccupied-chair](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1942-the-number-of-the-smallest-unoccupied-chair) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2093-check-if-string-is-a-prefix-of-array) |
@@ -569,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1851-minimum-interval-to-include-each-query) |
+| [1901-find-a-peak-element-ii](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1901-find-a-peak-element-ii) |
 | [2187-minimum-time-to-complete-trips](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2187-minimum-time-to-complete-trips) |
 | [2634-minimum-common-value](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2634-minimum-common-value) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
@@ -626,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1428-leftmost-column-with-at-least-a-one](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1428-leftmost-column-with-at-least-a-one) |
 | [1753-path-with-minimum-effort](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1753-path-with-minimum-effort) |
+| [1901-find-a-peak-element-ii](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1901-find-a-peak-element-ii) |
 ## Sorting
 |  |
 | ------- |
