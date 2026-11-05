@@ -556,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-max-consecutive-ones-iii](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1055-shortest-way-to-form-string](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1055-shortest-way-to-form-string) |
+| [1201-ugly-number-iii](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1201-ugly-number-iii) |
 | [1231-divide-chocolate](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1231-divide-chocolate) |
 | [1232-sum-of-mutated-array-closest-to-target](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1232-sum-of-mutated-array-closest-to-target) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -589,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0878-nth-magical-number](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0878-nth-magical-number) |
 | [1013-fibonacci-number](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
+| [1201-ugly-number-iii](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1201-ugly-number-iii) |
 | [1236-n-th-tribonacci-number](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1236-n-th-tribonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2269-find-the-k-beauty-of-a-number) |
@@ -892,6 +894,7 @@ A collection of LeetCode questions to ace the coding interview.
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0062-unique-paths) |
+| [1201-ugly-number-iii](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1201-ugly-number-iii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -1183,13 +1186,27 @@ A collection of LeetCode questions to ace the coding interview.
 |  |
 | ------- |
 | [0878-nth-magical-number](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0878-nth-magical-number) |
+| [1201-ugly-number-iii](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1201-ugly-number-iii) |
 ## Inclusion-Exclusion Principle
 |  |
 | ------- |
 | [0878-nth-magical-number](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0878-nth-magical-number) |
+| [1201-ugly-number-iii](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1201-ugly-number-iii) |
 ## Cartesian Tree
 |  |
 | ------- |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1856-maximum-subarray-min-product](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1856-maximum-subarray-min-product) |
+## Number Theory
+|  |
+| ------- |
+| [1201-ugly-number-iii](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1201-ugly-number-iii) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1201-ugly-number-iii](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1201-ugly-number-iii) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1201-ugly-number-iii](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1201-ugly-number-iii) |
 <!---LeetCode Topics End-->
