@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0312-burst-balloons](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0334-increasing-triplet-subsequence](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0368-largest-divisible-subset) |
@@ -694,6 +695,7 @@ A collection of LeetCode questions to ace the coding interview.
 | ------- |
 | [0011-container-with-most-water](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0253-meeting-rooms-ii](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0253-meeting-rooms-ii) |
+| [0334-increasing-triplet-subsequence](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0402-remove-k-digits](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
@@ -1187,6 +1189,7 @@ A collection of LeetCode questions to ace the coding interview.
 ## Longest Increasing Subsequence
 |  |
 | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0646-maximum-length-of-pair-chain](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
 ## Sweep Line
 |  |
