@@ -6,11 +6,18 @@
 
 class Solution:
     def hasCycle(self, head: Optional[ListNode]) -> bool:
-        slowPointer = head
-        fastPointer = head
-        while fastPointer is not None and fastPointer.next is not None:
-            fastPointer = fastPointer.next.next
-            slowPointer = slowPointer.next
-            if fastPointer==slowPointer: return True
-        return False
-        
+        fast = slow = head
+        haveMet = False
+        while fast and fast.next:
+            slow = slow.next
+            fast = fast.next.next
+            if fast is None: return False
+            if fast==slow:
+                if haveMet==False:
+                    #both meet -> there must be a cycle
+                    #reset fast to the head-> the point where the meet will be the cycle
+                    fast = head
+                    haveMet = True
+                else:
+                    return True
+            
