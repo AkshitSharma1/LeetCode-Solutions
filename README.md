@@ -471,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2093-check-if-string-is-a-prefix-of-array) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2442-number-of-arithmetic-triplets](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2442-number-of-arithmetic-triplets) |
 | [2561-number-of-distinct-averages](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2561-number-of-distinct-averages) |
@@ -1151,6 +1152,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0725-split-linked-list-in-parts](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0725-split-linked-list-in-parts) |
 | [0876-middle-of-the-linked-list](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [1072-next-greater-node-in-linked-list](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1072-next-greater-node-in-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Binary Search Tree
 |  |
 | ------- |
