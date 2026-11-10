@@ -1236,4 +1236,8 @@ A collection of LeetCode questions to ace the coding interview.
 |  |
 | ------- |
 | [1201-ugly-number-iii](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1201-ugly-number-iii) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
