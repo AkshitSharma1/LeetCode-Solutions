@@ -1196,6 +1196,7 @@ A collection of LeetCode questions to ace the coding interview.
 | ------- |
 | [0759-employee-free-time](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0759-employee-free-time) |
 | [0986-interval-list-intersections](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0986-interval-list-intersections) |
+| [1851-minimum-interval-to-include-each-query](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1851-minimum-interval-to-include-each-query) |
 ## Least Common Multiple
 |  |
 | ------- |
