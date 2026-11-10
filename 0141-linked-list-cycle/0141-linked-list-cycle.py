@@ -19,5 +19,6 @@ class Solution:
                     fast = head
                     haveMet = True
                 else:
+                    #both meet again after reseting one of them to head-> this must be the common point
                     return True
             
