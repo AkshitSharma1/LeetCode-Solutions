@@ -1154,6 +1154,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0203-remove-linked-list-elements](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
+| [0237-delete-node-in-a-linked-list](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0328-odd-even-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0445-add-two-numbers-ii) |
 | [0725-split-linked-list-in-parts](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0725-split-linked-list-in-parts) |
