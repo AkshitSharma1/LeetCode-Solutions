@@ -6,19 +6,21 @@
 class Solution:
     def swapPairs(self, head: ListNode | None) -> ListNode | None:
         dummy = ListNode(-1,head)
-        curr = head
         prev = dummy
+        curr = head
+      
         while curr and curr.next:
             nxt = curr.next
-            nxt_to_nxt = curr.next.next
+            second_nxt = curr.next.next if curr.next else None
+
+            curr.next = nxt.next
             nxt.next = curr
-            curr.next = nxt_to_nxt
             prev.next = nxt
 
-            #move the pointers ahead
             prev = curr
-            curr = nxt_to_nxt
+            curr = second_nxt
+        
         return dummy.next
+        
 
-
-            #prev point
+        
