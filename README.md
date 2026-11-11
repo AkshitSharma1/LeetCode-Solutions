@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1813-maximum-erasure-value](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1813-maximum-erasure-value) |
+| [1836-remove-duplicates-from-an-unsorted-linked-list](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1836-remove-duplicates-from-an-unsorted-linked-list) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1942-the-number-of-the-smallest-unoccupied-chair](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1942-the-number-of-the-smallest-unoccupied-chair) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
@@ -1164,6 +1165,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0876-middle-of-the-linked-list](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [1072-next-greater-node-in-linked-list](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1072-next-greater-node-in-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
+| [1836-remove-duplicates-from-an-unsorted-linked-list](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1836-remove-duplicates-from-an-unsorted-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Binary Search Tree
 |  |
