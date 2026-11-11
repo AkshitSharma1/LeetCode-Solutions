@@ -5,34 +5,36 @@
 #         self.next = next
 class Solution:
     def reverseKGroup(self, head: ListNode | None, k: int) -> ListNode | None:
+        #we first ensure more than k nodes are there
+        #if yes, then we reverse first group
+        # we connect node prior to the group start with the last node of group
+        # we connect first node of group to the first node after the group ends
         dummy = ListNode(-1,head)
         prev = dummy
         curr = head
+
         while curr:
-            prev_backup = prev
-            node_count = curr
-            #count number of nodes
-            for _ in range(k-1): 
-                if node_count.next is None:
-                    #this is the last node, return it
-                    return dummy.next
-                node_count = node_count.next
-                
-                
-                
+            #first ensure k nodes
+            node_count = prev
             for _ in range(k):
-                #reverse the first k nodes
+                node_count = node_count.next
+                if node_count is None:
+                    #nothing to reverse
+                    return dummy.next
+            
+            #now actually reverse the k nodes
+            prev_backup = prev #node just before the group
+            for _ in range(k):
                 nxt = curr.next
                 curr.next = prev
-
-                #move the pointers
                 prev = curr
                 curr = nxt
-            #prev points to last node of this group
-            #curr points to new node just right of thsi group
-            prev_backup.next.next = curr
+            
+            #now connect the messed up pointers
             tmp = prev_backup.next
+            prev_backup.next.next = curr
             prev_backup.next = prev
-            prev = tmp
 
+            #now setup prev and curr correctly
+            prev = tmp
         return dummy.next
