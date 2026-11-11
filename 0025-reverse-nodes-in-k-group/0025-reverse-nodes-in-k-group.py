@@ -13,28 +13,27 @@ class Solution:
         prev = dummy
         curr = head
 
-        while curr:
-            #first ensure k nodes
-            node_count = prev
-            for _ in range(k):
-                node_count = node_count.next
-                if node_count is None:
-                    #nothing to reverse
-                    return dummy.next
-            
-            #now actually reverse the k nodes
-            prev_backup = prev #node just before the group
-            for _ in range(k):
-                nxt = curr.next
-                curr.next = prev
-                prev = curr
-                curr = nxt
-            
-            #now connect the messed up pointers
-            tmp = prev_backup.next
-            prev_backup.next.next = curr
-            prev_backup.next = prev
+        #first ensure k nodes
+        node_count = prev
+        for _ in range(k):
+            node_count = node_count.next
+            if node_count is None:
+                #nothing to reverse
+                return dummy.next
+        
+        #now actually reverse the k nodes
+        prev_backup = prev #node just before the group
+        for _ in range(k):
+            nxt = curr.next
+            curr.next = prev
+            prev = curr
+            curr = nxt
+        
+        #now connect the messed up pointers
+        tmp = prev_backup.next
+        prev_backup.next.next = self.reverseKGroup(curr,k)
+        prev_backup.next = prev
 
-            #now setup prev and curr correctly
-            prev = tmp
+        #now setup prev and curr correctly
+        prev = tmp
         return dummy.next
