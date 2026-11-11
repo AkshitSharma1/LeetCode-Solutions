@@ -11,13 +11,11 @@ class Solution:
         :rtype: void Do not return anything, modify node in-place instead.
         """
         prev = node
-        curr = node.next
-        second_prev = node
-        while curr:
-            prev.val = curr.val
-            second_prev = prev
-            prev = curr
+        curr = node
+        while curr and curr.next:
+            curr.val = curr.next.val
+            if curr.next.next is None:
+                curr.next = None
             curr = curr.next
-        second_prev.next = None
 
         
