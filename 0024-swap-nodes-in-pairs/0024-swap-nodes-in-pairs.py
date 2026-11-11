@@ -4,13 +4,21 @@
 #         self.val = val
 #         self.next = next
 class Solution:
-    def swapPairs(self, head: Optional[ListNode]) -> Optional[ListNode]:
-        if head is None or head.next is None: return head
+    def swapPairs(self, head: ListNode | None) -> ListNode | None:
+        dummy = ListNode(-1,head)
+        curr = head
+        prev = dummy
+        while curr and curr.next:
+            nxt = curr.next
+            nxt_to_nxt = curr.next.next
+            nxt.next = curr
+            curr.next = nxt_to_nxt
+            prev.next = nxt
 
-        rest= self.swapPairs(head.next.next)
-        temp = head.next
-        head.next = rest
-        temp.next = head
+            #move the pointers ahead
+            prev = curr
+            curr = nxt_to_nxt
+        return dummy.next
 
-        return temp
 
+            #prev point
