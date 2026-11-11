@@ -4,31 +4,24 @@
 #         self.val = val
 #         self.next = next
 class Solution:
-    def partition(self, head: Optional[ListNode], x: int) -> Optional[ListNode]:
-        smallerElementQueue = deque()
-        largerElementQueue = deque()
-        
-        pointer = head
-        while pointer is not None:
-            if pointer.val<x: 
-                smallerElementQueue.append(pointer.val)
+    def partition(self, head: ListNode | None, x: int) -> ListNode | None:
+        less_head = ListNode(-1,None)
+        less_pointer = less_head
+        big_head = ListNode(-1,None)
+        big_pointer = big_head
+
+        curr = head
+        while curr:
+            if curr.val<x:
+
+                less_pointer.next = curr
+                less_pointer = curr
             else:
-                largerElementQueue.append(pointer.val)
-            pointer = pointer.next
-
-        dummyHead = ListNode(0,None)
-        pointer = dummyHead
-        while len(smallerElementQueue)>0:
-            pointer.next = ListNode(val=smallerElementQueue.popleft(),next=None)
-            pointer = pointer.next
-
-        while len(largerElementQueue)>0:
-            pointer.next = ListNode(val=largerElementQueue.popleft(),next=None)
-            pointer = pointer.next
-        
-        return dummyHead.next
-        
-        
-
-
+                big_pointer.next = curr
+                big_pointer = curr
             
+            curr = curr.next
+        
+        less_pointer.next = big_head.next
+        big_pointer.next = None
+        return less_head.next
