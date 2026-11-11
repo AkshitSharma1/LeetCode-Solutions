@@ -5,25 +5,23 @@
 #         self.next = next
 class Solution:
     def deleteDuplicates(self, head: ListNode | None) -> ListNode | None:
-
         dummy = ListNode(-1,head)
-        curr = dummy
-        while curr and curr.next:
-            next_node = curr.next
-            duplicate_value_count = 0
-            while next_node and next_node.next and next_node.next.val==next_node.val:
-                #find the finishing node of the duplicates (ie last node)
-                next_node = next_node.next
-                duplicate_value_count+=1
+        prev = dummy
+        curr = head
+        while curr:
+            duplicate_count = 0
+            while curr and curr.next and curr.next.val==curr.val:
+                #duplicates, keep on skipping this
+                curr = curr.next
+                duplicate_count+=1
             
-            #next_node now points to the last node of duplicates (if its there)
-            if duplicate_value_count==0:
-                #no duplicates for next value
-                #-> safely increment the curr
-                curr = next_node
+            if duplicate_count==0:
+                #no duplicates , can safely increment both prev and curr
+                prev = curr
+                curr = curr.next
             else:
-                curr.next = next_node.next
-
+                #we had duplicates, curr.next will resemble first non-duplicate element
+                prev.next = curr.next
+                curr = curr.next
+                #its possible that this new number might also have duplicates, so we dont increase prev
         return dummy.next
-
-        
