@@ -1144,6 +1144,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0024-swap-nodes-in-pairs](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0061-rotate-list) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0092-reverse-linked-list-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
