@@ -4,30 +4,26 @@
 #         self.val = val
 #         self.next = next
 class Solution:
-    def reverseBetween(self, head: Optional[ListNode], left: int, right: int) -> Optional[ListNode]:
-        dummy = ListNode(val=-1)
-        dummy.next = head
-        p1 = dummy #just before left node
-        p2 = dummy #just after right node
+    def reverseBetween(self, head: ListNode | None, left: int, right: int) -> ListNode | None:
+        #get to the required position first
+        dummy = ListNode(-1,head)
+        curr = dummy
         for _ in range(left-1):
-
-            p1 = p1.next
-        for _ in range(right+1):
-            p2 = p2.next
+            curr = curr.next
         
-        #reverse this part
-        prev = None
-        curr = p1.next
-        while curr!=p2:
+        prev = curr
+        curr = curr.next
+        #curr is the firstmost node which we reverse
+        prev_backup = prev
+        for _ in range(right-left+1):
             nxt = curr.next
             curr.next = prev
             prev = curr
             curr = nxt
 
-        p1.next.next = p2
-        p1.next = prev
-
+        #curr will node point to the node just after right
+        #prev points to the rght node
+        prev_backup.next.next = curr
+        prev_backup.next = prev
+    
         return dummy.next
-        
-
-
