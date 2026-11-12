@@ -5,21 +5,25 @@
 #         self.next = next
 class Solution:
     def swapPairs(self, head: ListNode | None) -> ListNode | None:
-        if head is None or head.next is None: return head
+        if head is None or head.next is None: 
+            return head
         dummy = ListNode(-1,head)
         prev_to_prev = dummy
-        prev = head
         curr = head.next
+        prev = head
 
         while curr:
             nxt = curr.next
-            nxt_to_nxt = curr.next.next if curr.next else None
             curr.next = prev
-            prev_to_prev.next = curr
             prev.next = nxt
+            prev_to_prev.next = curr
 
+            #now move the pointer ahead
             prev_to_prev = prev
             prev = nxt
-            curr = nxt_to_nxt
+            curr = nxt.next if nxt is not None else None
         
         return dummy.next
+
+
+        
