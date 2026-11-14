@@ -4,20 +4,25 @@
 #         self.val = val
 #         self.left = left
 #         self.right = right
-
 class Solution:
     def goodNodes(self, root: TreeNode) -> int:
-        answer=0
-        def recurse(root,max_val=-float("inf")):
-            nonlocal answer
-            if root is None: return
-            if root.val>=max_val:
-                max_val = root.val
-                answer+=1
-            recurse(root.left,max_val)
-            recurse(root.right,max_val)
-        recurse(root)
-        return answer
+        #logic-> go across all the nodes, capturing max value along the path and see if it does not exist the final node value or not
+        good_nodes_count = 0
 
+        def dfs(node,max_value):
+            if node is None: return
+
+            nonlocal good_nodes_count
+            #to write basecase
+
+            if node.val>=max_value:
+                good_nodes_count +=1
+                max_value = node.val
+            
+            dfs(node.left,max_value)
+            dfs(node.right,max_value)
+        
+        dfs(root,float("-inf"))
+        return good_nodes_count
 
         
