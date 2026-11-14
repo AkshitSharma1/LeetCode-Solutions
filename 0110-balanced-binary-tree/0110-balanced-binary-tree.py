@@ -4,21 +4,21 @@
 #         self.val = val
 #         self.left = left
 #         self.right = right
-
 class Solution:
-    
-    def isBalanced(self, root: Optional[TreeNode]) -> bool:
-        def height(node):
-            if node is None: return -1
-            leftChild = height(node.left)
-            rightChild = height(node.right)
-            if leftChild==-2 or rightChild==-2: return -2
-            if abs(leftChild-rightChild)>1: return -2
+    def isBalanced(self, root: TreeNode | None) -> bool:
+        #balanced iff abs height diff <= 1  
+        def checkIfBalanced(node):
+            if node is None:
+                return True,-1
+            #function to return true/false and height of this entire tree having root as node
+            left_balanced, left_height = checkIfBalanced(node.left)
+            right_balanced, right_height = checkIfBalanced(node.right)
+            #check if any subtree is unbalanced
+            if left_balanced==False or right_balanced==False: return False,-1 
+            if abs(right_height-left_height)>1: return False, -1
 
-            
-            return 1+max(leftChild,rightChild)
-
-        answer = height(root)
-        if answer==-2: return False
-        return True
+            return True, 1 + max(left_height,right_height)
         
+        is_balanced, max_height = checkIfBalanced(root)
+        return is_balanced
+
