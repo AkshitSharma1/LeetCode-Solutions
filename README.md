@@ -1021,6 +1021,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0547-number-of-provinces](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0669-trim-a-binary-search-tree) |
 | [0695-max-area-of-island](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0744-network-delay-time) |
@@ -1128,6 +1129,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0543-diameter-of-binary-tree](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0669-trim-a-binary-search-tree) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0814-binary-tree-pruning](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0814-binary-tree-pruning) |
@@ -1165,6 +1167,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0543-diameter-of-binary-tree](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0669-trim-a-binary-search-tree) |
 | [0814-binary-tree-pruning](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0814-binary-tree-pruning) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -1219,6 +1222,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0098-validate-binary-search-tree](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0669-trim-a-binary-search-tree](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0669-trim-a-binary-search-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Enumeration
 |  |
