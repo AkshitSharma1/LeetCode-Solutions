@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [2251-number-of-flowers-in-full-bloom](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2365-task-scheduler-ii](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2365-task-scheduler-ii) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2402-meeting-rooms-iii](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2402-meeting-rooms-iii) |
 | [2442-number-of-arithmetic-triplets](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2442-number-of-arithmetic-triplets) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -974,6 +975,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [1448-count-good-nodes-in-binary-tree](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1753-path-with-minimum-effort](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1753-path-with-minimum-effort) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [3481-apply-substitutions](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/3481-apply-substitutions) |
 ## Binary Indexed Tree
 |  |
@@ -1037,6 +1039,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [1544-count-good-nodes-in-binary-tree](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1753-path-with-minimum-effort](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1753-path-with-minimum-effort) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [3481-apply-substitutions](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/3481-apply-substitutions) |
 ## Trie
 |  |
@@ -1135,6 +1138,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
 |  |
 | ------- |
@@ -1168,6 +1172,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## String Matching
 |  |
 | ------- |
