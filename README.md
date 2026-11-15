@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [1063-number-of-valid-subarrays](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1063-number-of-valid-subarrays) |
 | [1072-next-greater-node-in-linked-list](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1072-next-greater-node-in-linked-list) |
 | [1094-car-pooling](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1094-car-pooling) |
+| [1110-delete-nodes-and-return-forest](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1110-delete-nodes-and-return-forest) |
 | [1168-duplicate-zeros](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1168-duplicate-zeros) |
 | [1184-car-pooling](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1184-car-pooling) |
 | [1224-maximum-equal-frequency](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1224-maximum-equal-frequency) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0997-find-the-town-judge](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0997-find-the-town-judge) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1110-delete-nodes-and-return-forest](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1110-delete-nodes-and-return-forest) |
 | [1224-maximum-equal-frequency](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1224-maximum-equal-frequency) |
 | [1370-count-number-of-nice-subarrays](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1436-get-watched-videos-by-your-friends) |
@@ -1035,6 +1037,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0951-flip-equivalent-binary-trees](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0951-flip-equivalent-binary-trees) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1110-delete-nodes-and-return-forest](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1110-delete-nodes-and-return-forest) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1475-maximum-sum-bst-in-binary-tree) |
@@ -1138,6 +1141,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0951-flip-equivalent-binary-trees](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0951-flip-equivalent-binary-trees) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1110-delete-nodes-and-return-forest](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1110-delete-nodes-and-return-forest) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -1174,6 +1178,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0951-flip-equivalent-binary-trees](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0951-flip-equivalent-binary-trees) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1110-delete-nodes-and-return-forest](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1110-delete-nodes-and-return-forest) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
