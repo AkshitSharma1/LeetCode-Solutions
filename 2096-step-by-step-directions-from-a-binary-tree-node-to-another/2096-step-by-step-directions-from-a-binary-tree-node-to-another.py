@@ -5,37 +5,51 @@
 #         self.left = left
 #         self.right = right
 class Solution:
-    def get_lca(self,root,val1,val2):
-        if root is None or root.val in (val1,val2): return root
-        left_part = self.get_lca(root.left,val1,val2)
-        right_part = self.get_lca(root.right,val1,val2)
-        if left_part and right_part: return root
-        return left_part or right_part
-    
-    def path_to_start(self,root,start_val,path):
-        if root is None: return False
-        if root.val==start_val: return True
-        path.append('U')
-        if self.path_to_start(root.left,start_val,path): return True
-        path.pop()
-        path.append('U')
-        if self.path_to_start(root.right,start_val,path): return True
-        path.pop()
-        return False
-    
-    def path_to_dest(self,root,dest_val,path):
-        if root is None: return False
-        if root.val==dest_val: return True
-        path.append('L')
-        if self.path_to_dest(root.left,dest_val,path): return True
-        path.pop()
-        path.append('R')
-        if self.path_to_dest(root.right,dest_val,path): return True
-        path.pop()
-        return False
-    def getDirections(self, root: Optional[TreeNode], startValue: int, destValue: int) -> str:
-        lca = self.get_lca(root,startValue,destValue)
-        path = []
-        self.path_to_start(lca,startValue,path)
-        self.path_to_dest(lca,destValue,path)
-        return "".join(path)
+    def getDirections(self, root: TreeNode | None, startValue: int, destValue: int) -> str:
+        def findPath(node,value,path):
+            #given node,value,path- recursively find the path to the node having val as value and store its path
+            if node is None: return None
+            if node.val==value:
+                #this is the ans, append it to path and return the node
+                return True
+            #try moving left
+            path.append("L")
+            left_subtree = findPath(node.left,value,path)
+            if left_subtree:
+                return True
+            #left moving failed, so we move to the right
+            path.pop()
+            path.append("R")
+            right_subtree = findPath(node.right,value,path)
+            if right_subtree:
+                return True
+            #none works- this node doesnt contain answer in its childs
+            path.pop()
+            return False
+
+        root_to_start = []
+        root_to_target = []
+        findPath(root,startValue,root_to_start)
+        findPath(root,destValue,root_to_target)
+        #now remove common prefix
+        i = 0
+        n = len(root_to_start)
+        m = len(root_to_target)
+        while i<min(len(root_to_start),len(root_to_target)) and root_to_start[i]==root_to_target[i]:
+            i+=1
+        #i now points to the index which is not common (assuming paths do not overlap)
+        #2 edge cases-> i = path length
+        answer = []
+        if i<n and i<m:
+            #we go up n-i times
+            for _ in range(n-i): answer.append("U")
+            answer.extend(root_to_target[i:])
+            return "".join(answer)
+        elif i==n:
+            #start node lies on path of destination
+            return "".join(root_to_target[i:])
+        
+        elif i==m:
+            #destination lies on path from start upwards
+            for _ in range(n-i): answer.append("U")
+        return "".join(answer)
