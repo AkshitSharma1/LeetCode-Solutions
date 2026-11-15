@@ -1308,8 +1308,10 @@ A collection of LeetCode questions to ace the coding interview.
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Lowest Common Ancestor
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 <!---LeetCode Topics End-->
