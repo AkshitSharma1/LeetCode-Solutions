@@ -6,26 +6,35 @@
 #         self.right = right
 class Solution:
     def pruneTree(self, root: TreeNode | None) -> TreeNode | None:
-        def containsOne(root):
-            #recursively call child first, true if it contains 1
-            if root.left:
-                if containsOne(root.left)==False:
-                    #left subtree does not contain 1-> we will be removing it
-                    root.left = None
-                
-            if root.right:
-                if containsOne(root.right)==False:
-                    #right subtree
-                    root.right = None
+        def containsOne(node):
+            #basecase
+            if node is None:
+                return False,None
+
+            #returns true or false accordingly along witht the new root node (which is the child for the parent node)
+            left_child_contains_one, left_child = containsOne(node.left)
+            right_child_contains_one, right_child = containsOne(node.right)
+
+            if  left_child_contains_one==False:
+                node.left = None
+            else:
+                node.left = left_child
+
             
-            #now if both the branches are gone-> this is a leave node
-            # return False-> if it does not contain 1
-            if root.left is None and root.right is None and root.val!=1:
-                return False
-                #above line marks this node for deletion
+            if right_child_contains_one==False:
+                node.right = None
+            else:
+                node.right = right_child
+
             
-            return True
-        if root is None: return None
-        if containsOne(root)==False:
-            return None
+            #post removal- both the childs are none now
+            if node.val!=1 and node.left is None and node.right is None:
+                return False,None
+            
+            return True,node
+        _,root =  containsOne(root)
         return root
+
+            
+            
+        
