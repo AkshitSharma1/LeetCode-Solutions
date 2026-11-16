@@ -956,6 +956,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0529-minesweeper](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0529-minesweeper) |
 | [0542-01-matrix](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
+| [0623-add-one-row-to-tree](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0623-add-one-row-to-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
@@ -1021,6 +1022,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0529-minesweeper](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0529-minesweeper) |
 | [0543-diameter-of-binary-tree](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
+| [0623-add-one-row-to-tree](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0623-add-one-row-to-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0669-trim-a-binary-search-tree) |
@@ -1130,6 +1132,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0437-path-sum-iii](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0437-path-sum-iii) |
 | [0508-most-frequent-subtree-sum](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0508-most-frequent-subtree-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0623-add-one-row-to-tree](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0623-add-one-row-to-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0669-trim-a-binary-search-tree) |
@@ -1169,6 +1172,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0437-path-sum-iii](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0437-path-sum-iii) |
 | [0508-most-frequent-subtree-sum](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0508-most-frequent-subtree-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0623-add-one-row-to-tree](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0623-add-one-row-to-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0669-trim-a-binary-search-tree) |
