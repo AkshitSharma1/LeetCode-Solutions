@@ -6,29 +6,24 @@
 #         self.right = right
 class Solution:
     def delNodes(self, root: Optional[TreeNode], to_delete: List[int]) -> List[TreeNode]:
-        #first process each child, and then check if root is to be removed
-        #in that case- number of forest = 0,1 or 2 depending upon number of child
-        answer = []
-        to_delete = set(to_delete)
-        def removeNodes(node):
-            nonlocal to_delete
-            #basecase
-            if node is None: return None
+        forest = []
+        def removeOnes(node):
+            #removes all the ones in the subtree having root as node
+            # also adds all the forests as a result of this to the array
+            nonlocal forest,to_delete
+            if node is None: return node
+            #first call it for the childs
+            node.left = removeOnes(node.left)
+            node.right = removeOnes(node.right)
 
-            node.left = removeNodes(node.left)
-            node.right = removeNodes(node.right)
+            if node.val not in to_delete: return node
+            #if this node is to be removed
+            for child in [node.left,node.right]:
+                if child is None: continue
+                forest.append(child)
+            
+            return None
+        root = removeOnes(root)
+        if root is not None: forest.append(root)
+        return forest
 
-            #now check if node.val==to delete or not
-            # if it is-we will get either 0,1 or 2 forests
-            if node.val in to_delete:
-                for child in [node.left,node.right]:
-                    if child is None: continue
-                    answer.append(child)
-                return None
-            return node
-        
-        root = removeNodes(root)
-        if root is not None:
-            answer.append(root)
-        
-        return answer
