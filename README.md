@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [1046-last-stone-weight](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1046-last-stone-weight) |
 | [1063-number-of-valid-subarrays](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1063-number-of-valid-subarrays) |
 | [1072-next-greater-node-in-linked-list](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1072-next-greater-node-in-linked-list) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1094-car-pooling](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1094-car-pooling) |
 | [1110-delete-nodes-and-return-forest](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1110-delete-nodes-and-return-forest) |
 | [1168-duplicate-zeros](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1168-duplicate-zeros) |
@@ -648,6 +649,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0733-flood-fill](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [0861-flipping-an-image](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0861-flipping-an-image) |
 | [1036-rotting-oranges](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1036-rotting-oranges) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1428-leftmost-column-with-at-least-a-one](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1428-leftmost-column-with-at-least-a-one) |
 | [1753-path-with-minimum-effort](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1753-path-with-minimum-effort) |
@@ -973,6 +975,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0958-check-completeness-of-a-binary-tree](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1036-rotting-oranges) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
