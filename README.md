@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [1229-meeting-scheduler](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1229-meeting-scheduler) |
 | [1231-divide-chocolate](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1231-divide-chocolate) |
 | [1232-sum-of-mutated-array-closest-to-target](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1232-sum-of-mutated-array-closest-to-target) |
+| [1254-number-of-closed-islands](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1288-remove-covered-intervals](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1325-path-with-maximum-probability](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1325-path-with-maximum-probability) |
@@ -650,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0861-flipping-an-image](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0861-flipping-an-image) |
 | [1036-rotting-oranges](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1036-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1254-number-of-closed-islands](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1428-leftmost-column-with-at-least-a-one](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1428-leftmost-column-with-at-least-a-one) |
 | [1753-path-with-minimum-effort](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1753-path-with-minimum-effort) |
@@ -977,6 +979,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1036-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1254-number-of-closed-islands](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -1045,6 +1048,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1110-delete-nodes-and-return-forest](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1110-delete-nodes-and-return-forest) |
+| [1254-number-of-closed-islands](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1475-maximum-sum-bst-in-binary-tree) |
@@ -1260,6 +1264,7 @@ A collection of LeetCode questions to ace the coding interview.
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [1254-number-of-closed-islands](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
