@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [1232-sum-of-mutated-array-closest-to-target](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1232-sum-of-mutated-array-closest-to-target) |
 | [1254-number-of-closed-islands](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1288-remove-covered-intervals](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1288-remove-covered-intervals) |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1325-path-with-maximum-probability](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1325-path-with-maximum-probability) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -652,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [1036-rotting-oranges](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1036-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1428-leftmost-column-with-at-least-a-one](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1428-leftmost-column-with-at-least-a-one) |
 | [1753-path-with-minimum-effort](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1753-path-with-minimum-effort) |
@@ -980,6 +982,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [1036-rotting-oranges](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1036-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
