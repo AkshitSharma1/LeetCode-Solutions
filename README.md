@@ -965,6 +965,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0623-add-one-row-to-tree](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0623-add-one-row-to-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0684-redundant-connection](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0744-network-delay-time) |
@@ -1036,6 +1037,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0669-trim-a-binary-search-tree) |
+| [0684-redundant-connection](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0744-network-delay-time) |
@@ -1267,6 +1269,7 @@ A collection of LeetCode questions to ace the coding interview.
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0684-redundant-connection](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0684-redundant-connection) |
 | [1254-number-of-closed-islands](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
 ## Range Minimum/Maximum Query
 |  |
@@ -1346,5 +1349,6 @@ A collection of LeetCode questions to ace the coding interview.
 ## Graph Theory
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0684-redundant-connection) |
 | [0841-keys-and-rooms](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0841-keys-and-rooms) |
 <!---LeetCode Topics End-->
