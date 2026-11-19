@@ -975,6 +975,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0764-n-ary-tree-level-order-traversal](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0801-is-graph-bipartite](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0801-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0802-find-eventual-safe-states) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0813-all-paths-from-source-to-target](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0813-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0841-keys-and-rooms) |
@@ -1045,6 +1046,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0744-network-delay-time](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0744-network-delay-time) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0801-is-graph-bipartite](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0801-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0802-find-eventual-safe-states) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0813-all-paths-from-source-to-target](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0813-all-paths-from-source-to-target) |
 | [0814-binary-tree-pruning](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0814-binary-tree-pruning) |
@@ -1121,6 +1123,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0207-course-schedule](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0802-find-eventual-safe-states](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0802-find-eventual-safe-states) |
 | [2392-build-a-matrix-with-conditions](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2392-build-a-matrix-with-conditions) |
 | [3481-apply-substitutions](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/3481-apply-substitutions) |
 ## Minimum Spanning Tree
@@ -1354,6 +1357,7 @@ A collection of LeetCode questions to ace the coding interview.
 | ------- |
 | [0207-course-schedule](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0684-redundant-connection](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0684-redundant-connection) |
+| [0802-find-eventual-safe-states](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0841-keys-and-rooms) |
 | [2392-build-a-matrix-with-conditions](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2392-build-a-matrix-with-conditions) |
 ## Directed Acyclic Graph
@@ -1361,4 +1365,12 @@ A collection of LeetCode questions to ace the coding interview.
 | ------- |
 | [0207-course-schedule](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [2392-build-a-matrix-with-conditions](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2392-build-a-matrix-with-conditions) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0802-find-eventual-safe-states) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
