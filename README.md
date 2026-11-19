@@ -513,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0502-ipo](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
+| [0743-network-delay-time](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0743-network-delay-time) |
 | [0744-network-delay-time](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0744-network-delay-time) |
 | [0759-employee-free-time](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0759-employee-free-time) |
 | [0767-reorganize-string](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0767-reorganize-string) |
@@ -970,6 +971,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0684-redundant-connection](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0743-network-delay-time) |
 | [0744-network-delay-time](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0744-network-delay-time) |
 | [0752-open-the-lock](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0752-open-the-lock) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0764-n-ary-tree-level-order-traversal) |
@@ -1044,6 +1046,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0684-redundant-connection](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0743-network-delay-time) |
 | [0744-network-delay-time](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0744-network-delay-time) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0785-is-graph-bipartite](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0785-is-graph-bipartite) |
@@ -1115,6 +1118,7 @@ A collection of LeetCode questions to ace the coding interview.
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0399-evaluate-division) |
+| [0743-network-delay-time](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0743-network-delay-time) |
 | [0744-network-delay-time](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1325-path-with-maximum-probability](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1325-path-with-maximum-probability) |
@@ -1360,6 +1364,7 @@ A collection of LeetCode questions to ace the coding interview.
 | ------- |
 | [0207-course-schedule](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0684-redundant-connection](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0684-redundant-connection) |
+| [0743-network-delay-time](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0841-keys-and-rooms) |
@@ -1385,4 +1390,8 @@ A collection of LeetCode questions to ace the coding interview.
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0785-is-graph-bipartite) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
