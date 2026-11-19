@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [2251-number-of-flowers-in-full-bloom](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2365-task-scheduler-ii](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2365-task-scheduler-ii) |
+| [2392-build-a-matrix-with-conditions](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2392-build-a-matrix-with-conditions) |
 | [2402-meeting-rooms-iii](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2402-meeting-rooms-iii) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2442-number-of-arithmetic-triplets](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2442-number-of-arithmetic-triplets) |
@@ -658,6 +659,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [1428-leftmost-column-with-at-least-a-one](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1428-leftmost-column-with-at-least-a-one) |
 | [1753-path-with-minimum-effort](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1753-path-with-minimum-effort) |
 | [1901-find-a-peak-element-ii](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1901-find-a-peak-element-ii) |
+| [2392-build-a-matrix-with-conditions](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2392-build-a-matrix-with-conditions) |
 ## Sorting
 |  |
 | ------- |
@@ -1119,6 +1121,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0207-course-schedule](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [2392-build-a-matrix-with-conditions](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2392-build-a-matrix-with-conditions) |
 | [3481-apply-substitutions](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/3481-apply-substitutions) |
 ## Minimum Spanning Tree
 |  |
@@ -1352,8 +1355,10 @@ A collection of LeetCode questions to ace the coding interview.
 | [0207-course-schedule](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0684-redundant-connection](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0684-redundant-connection) |
 | [0841-keys-and-rooms](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0841-keys-and-rooms) |
+| [2392-build-a-matrix-with-conditions](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2392-build-a-matrix-with-conditions) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0207-course-schedule) |
+| [2392-build-a-matrix-with-conditions](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2392-build-a-matrix-with-conditions) |
 <!---LeetCode Topics End-->
