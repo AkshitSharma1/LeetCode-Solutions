@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [1539-kth-missing-positive-number](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1539-kth-missing-positive-number) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1631-path-with-minimum-effort](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1631-path-with-minimum-effort) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1695-maximum-erasure-value](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1695-maximum-erasure-value) |
 | [1705-maximum-number-of-eaten-apples](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1705-maximum-number-of-eaten-apples) |
@@ -526,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [1184-car-pooling](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1184-car-pooling) |
 | [1325-path-with-maximum-probability](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1325-path-with-maximum-probability) |
 | [1405-longest-happy-string](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1405-longest-happy-string) |
+| [1631-path-with-minimum-effort](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1631-path-with-minimum-effort) |
 | [1705-maximum-number-of-eaten-apples](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1705-maximum-number-of-eaten-apples) |
 | [1753-path-with-minimum-effort](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1753-path-with-minimum-effort) |
 | [1834-single-threaded-cpu](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1834-single-threaded-cpu) |
@@ -596,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [1539-kth-missing-positive-number](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1539-kth-missing-positive-number) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1631-path-with-minimum-effort](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1631-path-with-minimum-effort) |
 | [1753-path-with-minimum-effort](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1753-path-with-minimum-effort) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1793-maximum-score-of-a-good-subarray) |
@@ -661,6 +664,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1428-leftmost-column-with-at-least-a-one](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1428-leftmost-column-with-at-least-a-one) |
+| [1631-path-with-minimum-effort](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1631-path-with-minimum-effort) |
 | [1753-path-with-minimum-effort](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1753-path-with-minimum-effort) |
 | [1901-find-a-peak-element-ii](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1901-find-a-peak-element-ii) |
 | [2392-build-a-matrix-with-conditions](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2392-build-a-matrix-with-conditions) |
@@ -1000,6 +1004,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [1442-number-of-operations-to-make-network-connected](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [1631-path-with-minimum-effort](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1631-path-with-minimum-effort) |
 | [1753-path-with-minimum-effort](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1753-path-with-minimum-effort) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [3481-apply-substitutions](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/3481-apply-substitutions) |
@@ -1075,6 +1080,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [1448-count-good-nodes-in-binary-tree](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [1631-path-with-minimum-effort](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1631-path-with-minimum-effort) |
 | [1753-path-with-minimum-effort](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1753-path-with-minimum-effort) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -1294,6 +1300,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0721-accounts-merge](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [1254-number-of-closed-islands](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
+| [1631-path-with-minimum-effort](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1631-path-with-minimum-effort) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -1405,4 +1412,5 @@ A collection of LeetCode questions to ace the coding interview.
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0743-network-delay-time) |
+| [1631-path-with-minimum-effort](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
