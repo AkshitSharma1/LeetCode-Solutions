@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0747-min-cost-climbing-stairs](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0752-open-the-lock](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0752-open-the-lock) |
 | [0759-employee-free-time](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0759-employee-free-time) |
+| [0778-swim-in-rising-water](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0778-swim-in-rising-water) |
 | [0792-number-of-matching-subsequences](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0792-number-of-matching-subsequences) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [0861-flipping-an-image](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0861-flipping-an-image) |
@@ -522,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0744-network-delay-time](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0744-network-delay-time) |
 | [0759-employee-free-time](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0759-employee-free-time) |
 | [0767-reorganize-string](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0767-reorganize-string) |
+| [0778-swim-in-rising-water](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0778-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1046-last-stone-weight](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1046-last-stone-weight) |
 | [1094-car-pooling](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1094-car-pooling) |
@@ -582,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0704-binary-search](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0778-swim-in-rising-water](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0778-swim-in-rising-water) |
 | [0792-number-of-matching-subsequences](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0792-number-of-matching-subsequences) |
 | [0875-koko-eating-bananas](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0878-nth-magical-number](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0878-nth-magical-number) |
@@ -658,6 +661,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0542-01-matrix](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0733-flood-fill) |
+| [0778-swim-in-rising-water](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0778-swim-in-rising-water) |
 | [0861-flipping-an-image](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0861-flipping-an-image) |
 | [1036-rotting-oranges](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1036-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -987,6 +991,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0752-open-the-lock](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0752-open-the-lock) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0774-maximum-depth-of-n-ary-tree) |
+| [0778-swim-in-rising-water](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [0801-is-graph-bipartite](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0801-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0802-find-eventual-safe-states) |
@@ -1063,6 +1068,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0743-network-delay-time](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0743-network-delay-time) |
 | [0744-network-delay-time](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0744-network-delay-time) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0774-maximum-depth-of-n-ary-tree) |
+| [0778-swim-in-rising-water](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [0801-is-graph-bipartite](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0801-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0802-find-eventual-safe-states) |
@@ -1300,6 +1306,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0128-longest-consecutive-sequence](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0684-redundant-connection](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0721-accounts-merge) |
+| [0778-swim-in-rising-water](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [1254-number-of-closed-islands](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1584-min-cost-to-connect-all-points](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1584-min-cost-to-connect-all-points) |
@@ -1416,6 +1423,7 @@ A collection of LeetCode questions to ace the coding interview.
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1631-path-with-minimum-effort) |
 ## Prim's Algorithm
 |  |
@@ -1429,4 +1437,8 @@ A collection of LeetCode questions to ace the coding interview.
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1584-min-cost-to-connect-all-points) |
+## Minimax
+|  |
+| ------- |
+| [0778-swim-in-rising-water](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0778-swim-in-rising-water) |
 <!---LeetCode Topics End-->
