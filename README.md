@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0704-binary-search](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0721-accounts-merge](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0721-accounts-merge) |
 | [0724-find-pivot-index](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0567-permutation-in-string](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0721-accounts-merge](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0721-accounts-merge) |
 | [0752-open-the-lock](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0752-open-the-lock) |
 | [0767-reorganize-string](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0767-reorganize-string) |
 | [0792-number-of-matching-subsequences](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0792-number-of-matching-subsequences) |
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0680-valid-palindrome-ii](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0721-accounts-merge](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0721-accounts-merge) |
 | [0752-open-the-lock](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0752-open-the-lock) |
 | [0767-reorganize-string](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0767-reorganize-string) |
 | [0792-number-of-matching-subsequences](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0792-number-of-matching-subsequences) |
@@ -686,6 +689,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0646-maximum-length-of-pair-chain](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0658-find-k-closest-elements](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0721-accounts-merge](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0721-accounts-merge) |
 | [0759-employee-free-time](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0759-employee-free-time) |
 | [0767-reorganize-string](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0767-reorganize-string) |
 | [0792-number-of-matching-subsequences](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0792-number-of-matching-subsequences) |
@@ -970,6 +974,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0662-maximum-width-of-binary-tree](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0743-network-delay-time) |
 | [0744-network-delay-time](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0744-network-delay-time) |
@@ -1045,6 +1050,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0669-trim-a-binary-search-tree](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0669-trim-a-binary-search-tree) |
 | [0684-redundant-connection](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0743-network-delay-time) |
 | [0744-network-delay-time](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0744-network-delay-time) |
@@ -1282,6 +1288,7 @@ A collection of LeetCode questions to ace the coding interview.
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0684-redundant-connection](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0684-redundant-connection) |
+| [0721-accounts-merge](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [1254-number-of-closed-islands](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
 ## Range Minimum/Maximum Query
