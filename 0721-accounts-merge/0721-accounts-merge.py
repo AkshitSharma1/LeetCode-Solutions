@@ -25,9 +25,9 @@ class Solution:
         n = len(accounts)
         dsu = DSU(n)
         email_to_account = defaultdict(lambda :-1)
-        for i in range(n):
+        for i in range(n): #(o(n))
             #we go through all accounts and their emails
-            for email in accounts[i][1:]:
+            for email in accounts[i][1:]: #net sum will be o(total of emails = E)
                 if email_to_account[email]==-1: 
                     email_to_account[email] = i
                 else:
@@ -35,20 +35,20 @@ class Solution:
                     dsu.union(i,email_to_account[email])
         
         email_by_root = defaultdict(set)
-        for i in range(n):
-            for email in accounts[i][1:]:
+        for i in range(n): #o(n)
+            for email in accounts[i][1:]: #O(total contribution of this part is E)
                 #we find the root of i and then append to set
                 email_by_root[dsu.find(i)].add(email)
             
         #grouped all emails by root, now we have to return in sorted order
         answer = []
         seen = set()
-        for i in range(n):
-            root = dsu.find(i)
-            if root in seen: continue
-            seen.add(root)
-            temp_list = [accounts[root][0]]
+        for i,emails in email_by_root.items():
+
+       
+            temp_list = [accounts[i][0]]
             #we extend the list
-            temp_list.extend(sorted(list(email_by_root[root])))
-            answer.append(temp_list.copy())
+            temp_list.extend(sorted(list(emails)))  #o(e1lge1 + e2lge2...eilgei)
+            answer.append(temp_list.copy()) #o(E)
         return answer
+        
