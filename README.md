@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1539-kth-missing-positive-number](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1539-kth-missing-positive-number) |
+| [1584-min-cost-to-connect-all-points](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1631-path-with-minimum-effort](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1631-path-with-minimum-effort) |
@@ -1150,6 +1151,7 @@ A collection of LeetCode questions to ace the coding interview.
 ## Minimum Spanning Tree
 |  |
 | ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1706-min-cost-to-connect-all-points](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1706-min-cost-to-connect-all-points) |
 ## Tree
 |  |
@@ -1300,6 +1302,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0721-accounts-merge](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [1254-number-of-closed-islands](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
+| [1584-min-cost-to-connect-all-points](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1631-path-with-minimum-effort) |
 ## Range Minimum/Maximum Query
 |  |
@@ -1386,6 +1389,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0785-is-graph-bipartite](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0841-keys-and-rooms) |
+| [1584-min-cost-to-connect-all-points](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [2392-build-a-matrix-with-conditions](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/2392-build-a-matrix-with-conditions) |
 ## Directed Acyclic Graph
 |  |
@@ -1413,4 +1417,16 @@ A collection of LeetCode questions to ace the coding interview.
 | ------- |
 | [0743-network-delay-time](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0743-network-delay-time) |
 | [1631-path-with-minimum-effort](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1631-path-with-minimum-effort) |
+## Prim's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1584-min-cost-to-connect-all-points) |
+## Kruskal's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1584-min-cost-to-connect-all-points) |
+## Borůvka's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
