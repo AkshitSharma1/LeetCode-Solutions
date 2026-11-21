@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [1019-squares-of-a-sorted-array](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1024-video-stitching](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1024-video-stitching) |
 | [1036-rotting-oranges](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1036-rotting-oranges) |
+| [1043-partition-array-for-maximum-sum](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1043-partition-array-for-maximum-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1046-last-stone-weight) |
 | [1063-number-of-valid-subarrays](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1063-number-of-valid-subarrays) |
@@ -814,6 +815,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0954-maximum-sum-circular-subarray](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0954-maximum-sum-circular-subarray) |
 | [1013-fibonacci-number](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
 | [1024-video-stitching](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1024-video-stitching) |
+| [1043-partition-array-for-maximum-sum](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1043-partition-array-for-maximum-sum) |
 | [1143-longest-common-subsequence](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
 | [1236-n-th-tribonacci-number](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1250-longest-common-subsequence) |
