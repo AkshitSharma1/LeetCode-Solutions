@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0778-swim-in-rising-water](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0778-swim-in-rising-water) |
 | [0792-number-of-matching-subsequences](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0792-number-of-matching-subsequences) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
+| [0813-largest-sum-of-averages](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0813-largest-sum-of-averages) |
 | [0861-flipping-an-image](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0861-flipping-an-image) |
 | [0875-koko-eating-bananas](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0525-contiguous-array](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
+| [0813-largest-sum-of-averages](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0813-largest-sum-of-averages) |
 | [0966-binary-subarrays-with-sum](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
@@ -809,6 +811,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0787-cheapest-flights-within-k-stops](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0792-number-of-matching-subsequences](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0792-number-of-matching-subsequences) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0813-largest-sum-of-averages](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0813-largest-sum-of-averages) |
 | [0907-sum-of-subarray-minimums](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [0911-profitable-schemes](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0911-profitable-schemes) |
 | [0943-sum-of-subarray-minimums](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0943-sum-of-subarray-minimums) |
