@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0198-house-robber](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0213-house-robber-ii](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0216-combination-sum-iii) |
 | [0219-contains-duplicate-ii](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
@@ -789,6 +790,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0139-word-break](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0140-word-break-ii) |
 | [0198-house-robber](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0213-house-robber-ii) |
 | [0279-perfect-squares](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0312-burst-balloons) |
