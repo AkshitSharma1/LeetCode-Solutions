@@ -1459,4 +1459,12 @@ A collection of LeetCode questions to ace the coding interview.
 |  |
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0778-swim-in-rising-water) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
