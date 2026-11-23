@@ -387,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0556-next-greater-element-iii](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0556-next-greater-element-iii) |
 | [0567-permutation-in-string](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0583-delete-operation-for-two-strings) |
+| [0647-palindromic-substrings](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -472,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0567-permutation-in-string](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0633-sum-of-square-numbers](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
+| [0647-palindromic-substrings](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0647-palindromic-substrings) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
@@ -808,6 +810,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0542-01-matrix](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0646-maximum-length-of-pair-chain](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
+| [0647-palindromic-substrings](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0647-palindromic-substrings) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
