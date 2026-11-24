@@ -1466,6 +1466,7 @@ A collection of LeetCode questions to ace the coding interview.
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -1474,4 +1475,8 @@ A collection of LeetCode questions to ace the coding interview.
 |  |
 | ------- |
 | [0139-word-break](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0139-word-break) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
