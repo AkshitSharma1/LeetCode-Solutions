@@ -1346,6 +1346,7 @@ A collection of LeetCode questions to ace the coding interview.
 ## Longest Increasing Subsequence
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0334-increasing-triplet-subsequence](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0646-maximum-length-of-pair-chain](https://github.com/AkshitSharma1/LeetCode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
 ## Sweep Line
