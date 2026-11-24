@@ -1,21 +1,20 @@
 class Solution:
-    def lengthOfLIS(self, nums: List[int]) -> int:
-        n = len(nums)
-        dp = [-1]*(n+1)
-        def helperFunction(index):
-            #Whats the length of longest increasing subsequence starting at index i?
-            if index>=n: return 0
-            if dp[index]!=-1: return dp[index]
-            maxLengthStartingAtI = 1
-            for j in range(index+1,n):
-                if nums[j]>nums[index]:
-                    maxLengthStartingAtI = max(maxLengthStartingAtI,
-                    helperFunction(j)+1)
-            dp[index] = maxLengthStartingAtI
-            return dp[index]
-        
-        for i in range(len(nums)): helperFunction(i)
-        return max(dp)
-        
+    def lengthOfLIS(self, nums: list[int]) -> int:
+        # [10,7,11,15]
+        # for any number i in nums:
+        #     you loop back, check which numbers are less than i
+        #     1 + max(length of subsequence that ends at j, where j < i )
+        #     f(i) = length of longest subsequence that ends at i
+        #     f(i) = 1 + max (f(j)) for all j<i
 
-        
+        @cache
+        def f(i):
+            #length of lis which ends at num[i]
+            if i==0: return 1
+            ans = 1
+            for j in range(i-1,-1,-1):
+                if nums[j]>=nums[i]: continue
+                ans = max(ans,1+f(j))
+            return ans
+
+        return max([f(i) for i in range(0,len(nums))])
